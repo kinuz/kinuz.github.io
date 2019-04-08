@@ -1,13 +1,13 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("@reach/router"), require("core-js/modules/es6.array.iterator"), require("core-js/modules/es6.array.sort"), require("core-js/modules/es6.function.name"), require("core-js/modules/es6.map"), require("core-js/modules/es6.object.assign"), require("core-js/modules/es6.object.to-string"), require("core-js/modules/es6.regexp.constructor"), require("core-js/modules/es6.regexp.split"), require("core-js/modules/es6.regexp.to-string"), require("core-js/modules/es6.string.ends-with"), require("core-js/modules/es6.string.iterator"), require("core-js/modules/web.dom.iterable"), require("fs"), require("lodash"), require("lodash/get"), require("lodash/kebabCase"), require("minimatch"), require("path"), require("pify"), require("react"), require("react-dom/server"), require("react-helmet"));
+		module.exports = factory(require("@reach/router"), require("core-js/modules/es6.array.iterator"), require("core-js/modules/es6.array.sort"), require("core-js/modules/es6.function.name"), require("core-js/modules/es6.map"), require("core-js/modules/es6.object.assign"), require("core-js/modules/es6.object.to-string"), require("core-js/modules/es6.regexp.constructor"), require("core-js/modules/es6.regexp.split"), require("core-js/modules/es6.regexp.to-string"), require("core-js/modules/es6.string.ends-with"), require("core-js/modules/es6.string.iterator"), require("core-js/modules/web.dom.iterable"), require("fs"), require("lodash"), require("lodash/kebabCase"), require("minimatch"), require("path"), require("pify"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["@reach/router", "core-js/modules/es6.array.iterator", "core-js/modules/es6.array.sort", "core-js/modules/es6.function.name", "core-js/modules/es6.map", "core-js/modules/es6.object.assign", "core-js/modules/es6.object.to-string", "core-js/modules/es6.regexp.constructor", "core-js/modules/es6.regexp.split", "core-js/modules/es6.regexp.to-string", "core-js/modules/es6.string.ends-with", "core-js/modules/es6.string.iterator", "core-js/modules/web.dom.iterable", "fs", "lodash", "lodash/get", "lodash/kebabCase", "minimatch", "path", "pify", "react", "react-dom/server", "react-helmet"], factory);
+		define("lib", ["@reach/router", "core-js/modules/es6.array.iterator", "core-js/modules/es6.array.sort", "core-js/modules/es6.function.name", "core-js/modules/es6.map", "core-js/modules/es6.object.assign", "core-js/modules/es6.object.to-string", "core-js/modules/es6.regexp.constructor", "core-js/modules/es6.regexp.split", "core-js/modules/es6.regexp.to-string", "core-js/modules/es6.string.ends-with", "core-js/modules/es6.string.iterator", "core-js/modules/web.dom.iterable", "fs", "lodash", "lodash/kebabCase", "minimatch", "path", "pify", "react", "react-dom/server", "react-helmet"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("@reach/router"), require("core-js/modules/es6.array.iterator"), require("core-js/modules/es6.array.sort"), require("core-js/modules/es6.function.name"), require("core-js/modules/es6.map"), require("core-js/modules/es6.object.assign"), require("core-js/modules/es6.object.to-string"), require("core-js/modules/es6.regexp.constructor"), require("core-js/modules/es6.regexp.split"), require("core-js/modules/es6.regexp.to-string"), require("core-js/modules/es6.string.ends-with"), require("core-js/modules/es6.string.iterator"), require("core-js/modules/web.dom.iterable"), require("fs"), require("lodash"), require("lodash/get"), require("lodash/kebabCase"), require("minimatch"), require("path"), require("pify"), require("react"), require("react-dom/server"), require("react-helmet"));
+		exports["lib"] = factory(require("@reach/router"), require("core-js/modules/es6.array.iterator"), require("core-js/modules/es6.array.sort"), require("core-js/modules/es6.function.name"), require("core-js/modules/es6.map"), require("core-js/modules/es6.object.assign"), require("core-js/modules/es6.object.to-string"), require("core-js/modules/es6.regexp.constructor"), require("core-js/modules/es6.regexp.split"), require("core-js/modules/es6.regexp.to-string"), require("core-js/modules/es6.string.ends-with"), require("core-js/modules/es6.string.iterator"), require("core-js/modules/web.dom.iterable"), require("fs"), require("lodash"), require("lodash/kebabCase"), require("minimatch"), require("path"), require("pify"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else
-		root["lib"] = factory(root["@reach/router"], root["core-js/modules/es6.array.iterator"], root["core-js/modules/es6.array.sort"], root["core-js/modules/es6.function.name"], root["core-js/modules/es6.map"], root["core-js/modules/es6.object.assign"], root["core-js/modules/es6.object.to-string"], root["core-js/modules/es6.regexp.constructor"], root["core-js/modules/es6.regexp.split"], root["core-js/modules/es6.regexp.to-string"], root["core-js/modules/es6.string.ends-with"], root["core-js/modules/es6.string.iterator"], root["core-js/modules/web.dom.iterable"], root["fs"], root["lodash"], root["lodash/get"], root["lodash/kebabCase"], root["minimatch"], root["path"], root["pify"], root["react"], root["react-dom/server"], root["react-helmet"]);
-})(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_array_iterator__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_array_sort__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_function_name__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_map__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_object_assign__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_object_to_string__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_regexp_constructor__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_regexp_split__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_regexp_to_string__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_string_ends_with__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_string_iterator__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_web_dom_iterable__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash__, __WEBPACK_EXTERNAL_MODULE_lodash_get__, __WEBPACK_EXTERNAL_MODULE_lodash_kebabCase__, __WEBPACK_EXTERNAL_MODULE_minimatch__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_pify__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__, __WEBPACK_EXTERNAL_MODULE_react_helmet__) {
+		root["lib"] = factory(root["@reach/router"], root["core-js/modules/es6.array.iterator"], root["core-js/modules/es6.array.sort"], root["core-js/modules/es6.function.name"], root["core-js/modules/es6.map"], root["core-js/modules/es6.object.assign"], root["core-js/modules/es6.object.to-string"], root["core-js/modules/es6.regexp.constructor"], root["core-js/modules/es6.regexp.split"], root["core-js/modules/es6.regexp.to-string"], root["core-js/modules/es6.string.ends-with"], root["core-js/modules/es6.string.iterator"], root["core-js/modules/web.dom.iterable"], root["fs"], root["lodash"], root["lodash/kebabCase"], root["minimatch"], root["path"], root["pify"], root["react"], root["react-dom/server"], root["react-helmet"]);
+})(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_array_iterator__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_array_sort__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_function_name__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_map__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_object_assign__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_object_to_string__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_regexp_constructor__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_regexp_split__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_regexp_to_string__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_string_ends_with__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_es6_string_iterator__, __WEBPACK_EXTERNAL_MODULE_core_js_modules_web_dom_iterable__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash__, __WEBPACK_EXTERNAL_MODULE_lodash_kebabCase__, __WEBPACK_EXTERNAL_MODULE_minimatch__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_pify__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__, __WEBPACK_EXTERNAL_MODULE_react_helmet__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -104,16 +104,6 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ (function(module, exports, __webpack_require__) {
 
 var plugins = [{
-  plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-feed/gatsby-ssr */ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js"),
-  options: {
-    "plugins": [],
-    "query": "\n          {\n            site {\n              siteMetadata {\n                site_url: url\n                title\n                description: subtitle\n              }\n            }\n          }\n        ",
-    "feeds": [{
-      "query": "\n              {\n                allMarkdownRemark(\n                  limit: 1000,\n                  sort: { order: DESC, fields: [frontmatter___date] },\n                  filter: { frontmatter: { layout: { eq: \"post\" }, draft: { ne: true } } }\n                ) {\n                  edges {\n                    node {\n                      html\n                      fields {\n                        slug\n                      }\n                      frontmatter {\n                        title\n                        date\n                        layout\n                        draft\n                        description\n                      }\n                    }\n                  }\n                }\n              }\n            ",
-      "output": "/rss.xml"
-    }]
-  }
-}, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-google-analytics/gatsby-ssr */ "./node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js"),
   options: {
     "plugins": [],
@@ -403,7 +393,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! exports provided: pages, dataPaths, default */
 /***/ (function(module) {
 
-module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-design-culture-571","path":"/categories/design-culture/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-design-inspiration-177","path":"/categories/design-inspiration/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-hello-e79","path":"/categories/hello/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-typography-0ee","path":"/categories/typography/"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-2-b45","path":"/page/2"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-a-brief-history-of-typography-7dd","path":"/posts/a-brief-history-of-typography/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-humane-typography-in-the-digital-age-733","path":"/posts/humane-typography-in-the-digital-age/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-perfecting-the-art-of-perfection-326","path":"/posts/perfecting-the-art-of-perfection/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-birth-of-movable-type-6bf","path":"/posts/the-birth-of-movable-type/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-origins-of-social-stationery-lettering-240","path":"/posts/the-origins-of-social-stationery-lettering"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-upgraded-to-gatsby-v-2-ea6","path":"/posts/upgraded-to-gatsby-v2/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-design-cda","path":"/tags/design/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-gatsby-b93","path":"/tags/gatsby/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-handwriting-26b","path":"/tags/handwriting/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-helvetica-270","path":"/tags/helvetica/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-history-of-typography-1cf","path":"/tags/history-of-typography/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-history-c4d","path":"/tags/history/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-learning-to-write-b99","path":"/tags/learning-to-write/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-lettering-6d7","path":"/tags/lettering/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-linotype-fd9","path":"/tags/linotype/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-monotype-bef","path":"/tags/monotype/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-open-source-0ee","path":"/tags/open-source/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-typefaces-0cb","path":"/tags/typefaces/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-typography-d19","path":"/tags/typography/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-web-development-f99","path":"/tags/web-development/"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"877/path---about-771-2fe-5sdLh1G1Pqf59Pnbyl4YdeknKXE","categories-design-culture-571":"710/path---categories-design-culture-571-9ee-qunuSo53G9Am5xtjSekGSv8Df4","categories-design-inspiration-177":"606/path---categories-design-inspiration-177-83e-Daga9iRh6rKPVtEMQ1VSM1fM","categories-e90":"358/path---categories-e-90-f59-SuZNVTExCmG476Sm4X23pTsJk0","categories-gatsby-980":"5/path---categories-gatsby-980-344-zYcwl9c3D9xfGFiJ81H0vF23iY","categories-hello-e79":"717/path---categories-hello-e-79-bae-ozebwBr9S8UNVWug9AEdf8GdlM","categories-typography-0ee":"694/path---categories-typography-0-ee-86c-z4evIhv5ivZMuDuIC5KG2419U","contact-906":"404/path---contact-906-086-uK4q9P14HllSEoltUp4dGjGwmsg","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","index":"563/path---index-6a9-OXHJjW2Z4VNyeXKHfUZlXqhlpF4","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","page-2-b45":"764/path---page-2-b-45-94b-U48tBnqTIQk9D42RgDoY47Q3ec","posts-a-brief-history-of-typography-7dd":"76/path---posts-a-brief-history-of-typography-7-dd-3b3-FwygWmOy9NrZXsZ88uvAOvcoZg","posts-humane-typography-in-the-digital-age-733":"400/path---posts-humane-typography-in-the-digital-age-733-28c-HLxcNvaPEPIPOdhn7ptWDZtaYsk","posts-perfecting-the-art-of-perfection-326":"403/path---posts-perfecting-the-art-of-perfection-326-2f5-jzO7Z1Rl5PPaw37qWhObNWATvTw","posts-the-birth-of-movable-type-6bf":"187/path---posts-the-birth-of-movable-type-6-bf-ee4-JsQ0BQd0zk4nCu0dkx0tthDeDM","posts-the-origins-of-social-stationery-lettering-240":"196/path---posts-the-origins-of-social-stationery-lettering-240-a50-MvkwHkWPRrdZbuhN6wlCyXKw8Qk","posts-upgraded-to-gatsby-v-2-ea6":"821/path---posts-upgraded-to-gatsby-v-2-ea-6-f18-H7xpgo3vc3oNjWw0juy2OVstXgI","tags-275":"293/path---tags-275-fc0-w2PAbph4Gb52ZzuYa6466W17saw","tags-design-cda":"146/path---tags-design-cda-a0d-K5kVAMMGYZVogHFMIzK0P25FhXw","tags-gatsby-b93":"311/path---tags-gatsby-b-93-350-R6JMFqcSM4J1LZ3AGpGNYE4Gk","tags-handwriting-26b":"277/path---tags-handwriting-26-b-a7c-4NmwYOJTqLeQAAVG4A4901Z6PQ","tags-helvetica-270":"85/path---tags-helvetica-270-530-IFvGwsP5nSMzoE8C6qejmDQA","tags-history-c4d":"213/path---tags-history-c-4-d-70f-0gPz3kSfEgClzHz3egqQHWMsTQ","tags-history-of-typography-1cf":"884/path---tags-history-of-typography-1-cf-fe4-eQU5DE9bhbHoPil9oxjv5L4","tags-learning-to-write-b99":"929/path---tags-learning-to-write-b-99-a2b-juR5b0asDn200NHsSSbMbP2uo0","tags-lettering-6d7":"633/path---tags-lettering-6-d-7-362-xndlgeMFonGfdj2jUUXcoMnheHM","tags-linotype-fd9":"67/path---tags-linotype-fd-9-db5-0QGHRsG0oAGzzNGLglB7Hat1Hk","tags-monotype-bef":"923/path---tags-monotype-bef-e29-tjqSgb8Ayeuj8uB7yQd0vn7gvQ","tags-open-source-0ee":"473/path---tags-open-source-0-ee-962-oFhSwkyj0E6olWhC1EGOenZqY","tags-typefaces-0cb":"666/path---tags-typefaces-0-cb-b2e-uldptF1IUjkbdFgsSpOJMkVQ","tags-typography-d19":"733/path---tags-typography-d-19-b34-uUAEyn618elyBDAJ8ZsExm0EE","tags-web-development-f99":"289/path---tags-web-development-f-99-b07-90cHp4vbDscf8UIsTsbvpCS3NVU"}};
+module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-design-culture-571","path":"/categories/design-culture/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-design-inspiration-177","path":"/categories/design-inspiration/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-hello-e79","path":"/categories/hello/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-typography-0ee","path":"/categories/typography/"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-2-b45","path":"/page/2"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-a-brief-history-of-typography-7dd","path":"/posts/a-brief-history-of-typography/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-humane-typography-in-the-digital-age-733","path":"/posts/humane-typography-in-the-digital-age/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-perfecting-the-art-of-perfection-326","path":"/posts/perfecting-the-art-of-perfection/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-birth-of-movable-type-6bf","path":"/posts/the-birth-of-movable-type/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-origins-of-social-stationery-lettering-240","path":"/posts/the-origins-of-social-stationery-lettering"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-upgraded-to-gatsby-v-2-ea6","path":"/posts/upgraded-to-gatsby-v2/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-design-cda","path":"/tags/design/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-gatsby-b93","path":"/tags/gatsby/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-handwriting-26b","path":"/tags/handwriting/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-helvetica-270","path":"/tags/helvetica/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-history-of-typography-1cf","path":"/tags/history-of-typography/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-history-c4d","path":"/tags/history/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-learning-to-write-b99","path":"/tags/learning-to-write/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-lettering-6d7","path":"/tags/lettering/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-linotype-fd9","path":"/tags/linotype/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-monotype-bef","path":"/tags/monotype/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-open-source-0ee","path":"/tags/open-source/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-typefaces-0cb","path":"/tags/typefaces/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-typography-d19","path":"/tags/typography/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-web-development-f99","path":"/tags/web-development/"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"877/path---about-771-2fe-5sdLh1G1Pqf59Pnbyl4YdeknKXE","categories-design-culture-571":"813/path---categories-design-culture-571-9ee-kHar3LZcAOEgYAz25hxivpiVDM","categories-design-inspiration-177":"526/path---categories-design-inspiration-177-83e-BEqJzsJ2h08rQNdCWRBBDz737M8","categories-e90":"836/path---categories-e-90-f59-gJ1X4V9bquqVjK5eyN7HunLoz2s","categories-gatsby-980":"5/path---categories-gatsby-980-344-zYcwl9c3D9xfGFiJ81H0vF23iY","categories-hello-e79":"841/path---categories-hello-e-79-bae-dB3wSC3MQXY1bbWzSJwORhRpCo","categories-typography-0ee":"2/path---categories-typography-0-ee-86c-tfnBwPDrE2gGSdHnljMmcBfb2JQ","contact-906":"404/path---contact-906-086-uK4q9P14HllSEoltUp4dGjGwmsg","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","index":"687/path---index-6a9-2VKgO9WTrsTNw8a3NSErtnIYjRs","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","page-2-b45":"5/path---page-2-b-45-94b-0h1SiCoZ4QseaVtjxwvCqsp5Hw","posts-a-brief-history-of-typography-7dd":"72/path---posts-a-brief-history-of-typography-7-dd-3b3-7IL6qGsWikq4y5RlHZuqC8elPH8","posts-humane-typography-in-the-digital-age-733":"973/path---posts-humane-typography-in-the-digital-age-733-28c-C4TV23tqlJu27K2AnfAn53clgI","posts-perfecting-the-art-of-perfection-326":"509/path---posts-perfecting-the-art-of-perfection-326-2f5-DGsiGV5lw0BB1IFamPl6h01Yjg","posts-the-birth-of-movable-type-6bf":"59/path---posts-the-birth-of-movable-type-6-bf-ee4-SQOwMKGldlQzCDwOc5QbY9gcQ","posts-the-origins-of-social-stationery-lettering-240":"328/path---posts-the-origins-of-social-stationery-lettering-240-a50-g7gvyOhzg8IMMlGjOsOjWF18Dk","posts-upgraded-to-gatsby-v-2-ea6":"793/path---posts-upgraded-to-gatsby-v-2-ea-6-f18-pNS0oAuLFu9wXIktNGvtH8cPQMM","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"sq--src-pages-index-jsx":196174681,"sq--src-templates-post-list-template-jsx":1672355215,"tags-275":"420/path---tags-275-fc0-REHaw8wJmPGpB1Tkg8yAKe9QCV0","tags-design-cda":"37/path---tags-design-cda-a0d-VOvuoleVBH2tRGNbYYPNPlH0I","tags-gatsby-b93":"978/path---tags-gatsby-b-93-350-FIjbbZsJHgps2ELPI1FRXmHT1Kw","tags-handwriting-26b":"152/path---tags-handwriting-26-b-a7c-Hj2d2j4Fc6pGZKGIMFTn1vHQX6k","tags-helvetica-270":"47/path---tags-helvetica-270-530-30F0Mlsos8bUm0nsUEiW4CoONo","tags-history-c4d":"896/path---tags-history-c-4-d-70f-2yS3Mq5HbPtCmh6MvvS6zmgTpxk","tags-history-of-typography-1cf":"623/path---tags-history-of-typography-1-cf-fe4-Ea0aXpFxAPyA7xoAalqdIgTV5pY","tags-learning-to-write-b99":"342/path---tags-learning-to-write-b-99-a2b-FCEUXHXadYfor3lbPwFUgzQIGu8","tags-lettering-6d7":"213/path---tags-lettering-6-d-7-362-zabsIzrhOaB0LH5Y3ddgpIbN6A","tags-linotype-fd9":"925/path---tags-linotype-fd-9-db5-Tv9x9FeVZyzHKZnmvG1Tosja0","tags-monotype-bef":"284/path---tags-monotype-bef-e29-NX1jLwR465pSLh1pIEfNAtqs4w","tags-open-source-0ee":"771/path---tags-open-source-0-ee-962-I4I5r7JEvn5oxcR9ZwoThy7Qh5Y","tags-typefaces-0cb":"214/path---tags-typefaces-0-cb-b2e-qzkwih3C8rTOnohAZLimVXuUaiM","tags-typography-d19":"129/path---tags-typography-d-19-b34-VxAJ2zzomlMk2wm0un2wig97TWI","tags-web-development-f99":"55/path---tags-web-development-f-99-b07-11dACeJbueLAV4g91hQamhPuebA"}};
 
 /***/ }),
 
@@ -1758,108 +1748,6 @@ function parsePath(path) {
     hash: hash === "#" ? "" : hash
   };
 }
-
-/***/ }),
-
-/***/ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js":
-/*!*******************************************************!*\
-  !*** ./node_modules/gatsby-plugin-feed/gatsby-ssr.js ***!
-  \*******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");
-
-var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "./node_modules/@babel/runtime/helpers/extends.js"));
-
-var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-
-var _gatsby = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-
-var _internals = __webpack_require__(/*! ./internals */ "./node_modules/gatsby-plugin-feed/internals.js");
-
-exports.onRenderBody = function (_ref, pluginOptions) {
-  var setHeadComponents = _ref.setHeadComponents;
-
-  var _defaultOptions$plugi = (0, _extends2.default)({}, _internals.defaultOptions, pluginOptions),
-      feeds = _defaultOptions$plugi.feeds;
-
-  var links = feeds.map(function (_ref2, i) {
-    var output = _ref2.output,
-        title = _ref2.title;
-
-    if (output.charAt(0) !== "/") {
-      output = "/" + output;
-    }
-
-    return _react.default.createElement("link", {
-      key: "gatsby-plugin-feed-" + i,
-      rel: "alternate",
-      type: "application/rss+xml",
-      title: title,
-      href: (0, _gatsby.withPrefix)(output)
-    });
-  });
-  setHeadComponents(links);
-};
-
-/***/ }),
-
-/***/ "./node_modules/gatsby-plugin-feed/internals.js":
-/*!******************************************************!*\
-  !*** ./node_modules/gatsby-plugin-feed/internals.js ***!
-  \******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");
-
-exports.__esModule = true;
-exports.defaultOptions = exports.runQuery = void 0;
-
-var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "./node_modules/@babel/runtime/helpers/extends.js"));
-
-var _objectWithoutPropertiesLoose2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/objectWithoutPropertiesLoose */ "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js"));
-
-var runQuery = function runQuery(handler, query) {
-  return handler(query).then(function (r) {
-    if (r.errors) {
-      throw new Error(r.errors.join(", "));
-    }
-
-    return r.data;
-  });
-};
-
-exports.runQuery = runQuery;
-var defaultOptions = {
-  // Override if you want to manually specify the RSS "generator" tag.
-  generator: "GatsbyJS",
-  // Run a default query to gather some information about the site.
-  query: "\n    {\n      site {\n        siteMetadata {\n          title\n          description\n          siteUrl\n          site_url: siteUrl\n        }\n      }\n    }\n  ",
-  // Setup an RSS object, merging on various feed-specific options.
-  setup: function setup(_ref) {
-    var _ref$query = _ref.query,
-        siteMetadata = _ref$query.site.siteMetadata,
-        rest = (0, _objectWithoutPropertiesLoose2.default)(_ref$query, ["site"]);
-    return (0, _extends2.default)({}, siteMetadata, rest);
-  },
-  // Create a default RSS feed. Others may be added by using the format below.
-  feeds: [{
-    query: "\n      {\n        allMarkdownRemark(\n          limit: 1000,\n          sort: {\n            order: DESC,\n            fields: [frontmatter___date]\n          }\n        ) {\n          edges {\n            node {\n              frontmatter {\n                title\n                date\n              }\n              fields {\n                slug\n              }\n              excerpt\n              html\n            }\n          }\n        }\n      }\n    ",
-    // Where we will save the feed generated by this query.
-    output: "rss.xml",
-    // Use a title when reference a RSS feed in Link element.
-    title: null
-  }]
-};
-exports.defaultOptions = defaultOptions;
 
 /***/ }),
 
@@ -20870,6 +20758,39 @@ module.exports = function(module) {
 
 /***/ }),
 
+/***/ "./public/static/d/196174681.json":
+/*!****************************************!*\
+  !*** ./public/static/d/196174681.json ***!
+  \****************************************/
+/*! exports provided: data, default */
+/***/ (function(module) {
+
+module.exports = {"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/posts/upgraded-to-gatsby-v2/","categorySlug":"/categories/hello/"},"frontmatter":{"title":"Upgraded to Gatsby v2","date":"Oct 18th 2018","category":"hello","description":"This starter has been forked and upgraded to Gatsby v2","tags":["Gatsby","Web Development"]}}},{"node":{"fields":{"slug":"/posts/humane-typography-in-the-digital-age/","categorySlug":"/categories/typography/"},"frontmatter":{"title":"Humane Typography in the Digital Age","date":"Aug 19th 2017","category":"Typography","description":"An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.","tags":["Design","Typography","Web Development"]}}},{"node":{"fields":{"slug":"/posts/the-birth-of-movable-type/","categorySlug":"/categories/typography/"},"frontmatter":{"title":"Johannes Gutenberg: The Birth of Movable Type","date":"Aug 18th 2017","category":"Typography","description":"German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.","tags":["Open source","Gatsby","Typography"]}}}]}}};
+
+/***/ }),
+
+/***/ "./public/static/d/2195177324.json":
+/*!*****************************************!*\
+  !*** ./public/static/d/2195177324.json ***!
+  \*****************************************/
+/*! exports provided: data, default */
+/***/ (function(module) {
+
+module.exports = {"data":{"site":{"siteMetadata":{"title":"Kinuz Blog","subtitle":"","copyright":"© All rights reserved.","menu":[{"label":"Posts","path":"/"},{"label":"Tags","path":"/tags/"},{"label":"Category","path":"/categories/"},{"label":"About","path":"/about/"}],"author":{"name":"Kinuz","email":"kinuzy@gmail.com","telegram":"#","twitter":"#","github":"kinuz","linkedin":"kinuz","facebook":"#","rss":"#","vk":"#"}}}}};
+
+/***/ }),
+
+/***/ "./public/static/d/696331148.json":
+/*!****************************************!*\
+  !*** ./public/static/d/696331148.json ***!
+  \****************************************/
+/*! exports provided: data, default */
+/***/ (function(module) {
+
+module.exports = {"data":{"site":{"siteMetadata":{"title":"Kinuz Blog","subtitle":"","copyright":"© All rights reserved.","menu":[{"label":"Posts","path":"/"},{"label":"Tags","path":"/tags/"},{"label":"Category","path":"/categories/"},{"label":"About","path":"/about/"}],"author":{"name":"Kinuz","email":"kinuzy@gmail.com","telegram":"#","twitter":"#","github":"kinuz","linkedin":"kinuz","facebook":"#","rss":"#","vk":"#"}}}}};
+
+/***/ }),
+
 /***/ "./src/assets/fonts/fontello-771c82e0/css/fontello.css":
 /*!*************************************************************!*\
   !*** ./src/assets/fonts/fontello-771c82e0/css/fontello.css ***!
@@ -21043,13 +20964,14 @@ function (_Component) {
 /*!**********************************!*\
   !*** ./src/components/Layout.js ***!
   \**********************************/
-/*! exports provided: default */
+/*! exports provided: default, LayoutQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LayoutQuery", function() { return LayoutQuery; });
+/* harmony import */ var _public_static_d_696331148_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/static/d/696331148.json */ "./public/static/d/696331148.json");
+var _public_static_d_696331148_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../public/static/d/696331148.json */ "./public/static/d/696331148.json", 1);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "react-helmet");
@@ -21058,36 +20980,40 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_scss_init_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_scss_init_scss__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _node_modules_bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../node_modules/bootstrap/dist/css/bootstrap.min.css */ "./node_modules/bootstrap/dist/css/bootstrap.min.css");
 /* harmony import */ var _node_modules_bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var _Sidebar__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./Sidebar */ "./src/components/Sidebar/index.jsx");
 
 
 
 
 
 
-var Layout =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(Layout, _React$Component);
 
-  function Layout() {
-    return _React$Component.apply(this, arguments) || this;
-  }
 
-  var _proto = Layout.prototype;
-
-  _proto.render = function render() {
-    var children = this.props.children;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "layout"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, {
-      defaultTitle: "Blog by Kinuz"
-    }), children);
-  };
-
-  return Layout;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+var Layout = function Layout(_ref) {
+  var children = _ref.children,
+      pageTitle = _ref.pageTitle,
+      hideSidebar = _ref.hideSidebar;
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_5__["StaticQuery"], {
+    query: LayoutQuery,
+    render: function render(data) {
+      var _data$site$siteMetada = data.site.siteMetadata,
+          title = _data$site$siteMetada.title,
+          subtitle = _data$site$siteMetada.subtitle;
+      var sidebar_tag = hideSidebar ? '' : react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Sidebar__WEBPACK_IMPORTED_MODULE_6__["default"], null);
+      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+        className: "layout"
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", null, title, " - ", pageTitle), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
+        name: "description",
+        content: subtitle
+      })), sidebar_tag, children);
+    },
+    data: _public_static_d_696331148_json__WEBPACK_IMPORTED_MODULE_0__
+  });
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (Layout);
+var LayoutQuery = "696331148";
 
 /***/ }),
 
@@ -21265,10 +21191,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _Sidebar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Sidebar */ "./src/components/Sidebar/index.jsx");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./style.scss */ "./src/components/PageTemplateDetails/style.scss");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_3__);
-
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./style.scss */ "./src/components/PageTemplateDetails/style.scss");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_2__);
 
 
 
@@ -21286,7 +21210,7 @@ function (_React$Component) {
 
   _proto.render = function render() {
     var page = this.props.data.markdownRemark;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Sidebar__WEBPACK_IMPORTED_MODULE_2__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content__inner"
@@ -21301,7 +21225,7 @@ function (_React$Component) {
       dangerouslySetInnerHTML: {
         __html: page.html
       }
-    })))));
+    }))));
   };
 
   return PageTemplateDetails;
@@ -21337,10 +21261,14 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var Pagebar = function Pagebar() {
+var Pagebar = function Pagebar(_ref) {
+  var total = _ref.total,
+      current = _ref.current;
+  console.log(total);
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["Pagination"], {
     size: "sm",
-    "aria-label": "Page navigation example"
+    "aria-label": "Page navigation example",
+    className: "pagination justify-content-center"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
     first: true,
     href: "#"
@@ -21352,6 +21280,8 @@ var Pagebar = function Pagebar() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
     href: "#"
   }, "1")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
+    href: "#"
+  }, "2")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
     next: true,
     href: "#"
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
@@ -21383,6 +21313,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./style.scss */ "./src/components/Post/style.scss");
 /* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_6__);
 
 
 
@@ -21435,9 +21367,11 @@ function (_React$Component) {
     }, title)), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
       className: "post__description"
     }, description), tags.map(function (tag) {
-      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_5__["Badge"], {
+      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+        to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_6___default()(tag) + "/"
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_5__["Badge"], {
         color: "primary mr-1"
-      }, tag);
+      }, tag));
     }));
   };
 
@@ -21468,20 +21402,17 @@ function (_React$Component) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es6.function.name */ "core-js/modules/es6.function.name");
-/* harmony import */ var core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _Disqus_Disqus__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Disqus/Disqus */ "./src/components/Disqus/Disqus.jsx");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./style.scss */ "./src/components/PostTemplateDetails/style.scss");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
-
+/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
+/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _Disqus_Disqus__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Disqus/Disqus */ "./src/components/Disqus/Disqus.jsx");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./style.scss */ "./src/components/PostTemplateDetails/style.scss");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
 
 
 
@@ -21493,7 +21424,7 @@ __webpack_require__.r(__webpack_exports__);
 var PostTemplateDetails =
 /*#__PURE__*/
 function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1___default()(PostTemplateDetails, _React$Component);
+  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(PostTemplateDetails, _React$Component);
 
   function PostTemplateDetails() {
     return _React$Component.apply(this, arguments) || this;
@@ -21507,50 +21438,46 @@ function (_React$Component) {
         author = _this$props$data$site.author;
     var post = this.props.data.markdownRemark;
     var tags = post.fields.tagSlugs;
-    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
       className: "post-single__home-button",
       to: "/"
-    }, "All Posts")), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }, "Home")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("h1", {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
       className: "post-single__title"
-    }, post.frontmatter.title), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }, post.frontmatter.title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single__body"
       /* eslint-disable-next-line react/no-danger */
       ,
       dangerouslySetInnerHTML: {
         __html: post.html
       }
-    }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single__date"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("em", null, "Published ", moment__WEBPACK_IMPORTED_MODULE_4___default()(post.frontmatter.date).format('D MMM YYYY')))), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("em", null, "Published ", moment__WEBPACK_IMPORTED_MODULE_3___default()(post.frontmatter.date).format('D MMM YYYY')))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single__footer"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: ""
     }, "Tags: ", ' ', tags && tags.map(function (tag, i) {
-      return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         to: tag,
         className: "mr-1"
-      }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_7__["Badge"], {
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_6__["Badge"], {
         color: "primary",
         key: tag
       }, post.frontmatter.tags[i]));
-    })), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("hr", null), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
+    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", null), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
       className: "post-single__footer-text"
-    }, subtitle, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
-      href: "https://twitter.com/" + author.twitter,
-      target: "_blank",
-      rel: "noopener noreferrer"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("br", null), " ", react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("strong", null, author.name), " on Twitter")), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Disqus_Disqus__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    }, subtitle), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Disqus_Disqus__WEBPACK_IMPORTED_MODULE_4__["default"], {
       postNode: post,
       siteMetadata: this.props.data.site.siteMetadata
     })))));
   };
 
   return PostTemplateDetails;
-}(react__WEBPACK_IMPORTED_MODULE_2___default.a.Component);
+}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (PostTemplateDetails);
 
@@ -21571,26 +21498,25 @@ function (_React$Component) {
 /*!******************************************!*\
   !*** ./src/components/Sidebar/index.jsx ***!
   \******************************************/
-/*! exports provided: default */
+/*! exports provided: default, SidebarQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SidebarQuery", function() { return SidebarQuery; });
 /* harmony import */ var core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es6.function.name */ "core-js/modules/es6.function.name");
 /* harmony import */ var core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_static_d_2195177324_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../public/static/d/2195177324.json */ "./public/static/d/2195177324.json");
+var _public_static_d_2195177324_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../../public/static/d/2195177324.json */ "./public/static/d/2195177324.json", 1);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var lodash_get__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! lodash/get */ "lodash/get");
-/* harmony import */ var lodash_get__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(lodash_get__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var _Menu__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Menu */ "./src/components/Menu/index.jsx");
-/* harmony import */ var _Links__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Links */ "./src/components/Links/index.jsx");
-/* harmony import */ var _pages_photo_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../pages/photo.png */ "./src/pages/photo.png");
-/* harmony import */ var _pages_photo_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_pages_photo_png__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./style.scss */ "./src/components/Sidebar/style.scss");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var _Menu__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Menu */ "./src/components/Menu/index.jsx");
+/* harmony import */ var _Links__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Links */ "./src/components/Links/index.jsx");
+/* harmony import */ var _pages_photo_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../pages/photo.png */ "./src/pages/photo.png");
+/* harmony import */ var _pages_photo_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_pages_photo_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./style.scss */ "./src/components/Sidebar/style.scss");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_7__);
 
 
 
@@ -21600,70 +21526,51 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
-var Sidebar =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_1___default()(Sidebar, _React$Component);
-
-  function Sidebar() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = Sidebar.prototype;
-
-  _proto.render = function render() {
-    var location = this.props.location;
-    var _this$props$data$site = this.props.data.site.siteMetadata,
-        author = _this$props$data$site.author,
-        subtitle = _this$props$data$site.subtitle,
-        copyright = _this$props$data$site.copyright,
-        menu = _this$props$data$site.menu;
-    var isHomePage = lodash_get__WEBPACK_IMPORTED_MODULE_3___default()(location, 'pathname', '/') === '/';
-    /* eslint-disable jsx-a11y/img-redundant-alt */
-
-    var authorBlock = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_4__["Link"], {
-      to: "/"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("img", {
-      src: _pages_photo_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-      className: "sidebar__author-photo",
-      width: "75",
-      height: "75",
-      alt: author.name
-    })), isHomePage ? react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("h1", {
-      className: "sidebar__author-title"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_4__["Link"], {
-      className: "sidebar__author-title-link",
-      to: "/"
-    }, author.name)) : react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("h2", {
-      className: "sidebar__author-title"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_4__["Link"], {
-      className: "sidebar__author-title-link",
-      to: "/"
-    }, author.name)), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
-      className: "sidebar__author-subtitle"
-    }, subtitle));
-    /* eslint-enable jsx-a11y/img-redundant-alt */
-
-    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "sidebar"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "sidebar__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "sidebar__author"
-    }, authorBlock), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Menu__WEBPACK_IMPORTED_MODULE_5__["default"], {
-      data: menu
-    }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Links__WEBPACK_IMPORTED_MODULE_6__["default"], {
-      data: author
-    }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
-      className: "sidebar__copyright"
-    }, copyright))));
-  };
-
-  return Sidebar;
-}(react__WEBPACK_IMPORTED_MODULE_2___default.a.Component);
+var Sidebar = function Sidebar() {
+  return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["StaticQuery"], {
+    query: SidebarQuery,
+    render: function render(data) {
+      var _data$site$siteMetada = data.site.siteMetadata,
+          author = _data$site$siteMetada.author,
+          subtitle = _data$site$siteMetada.subtitle,
+          copyright = _data$site$siteMetada.copyright,
+          menu = _data$site$siteMetada.menu;
+      var authorBlock = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+        to: "/"
+      }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("img", {
+        src: _pages_photo_png__WEBPACK_IMPORTED_MODULE_6___default.a,
+        className: "sidebar__author-photo",
+        width: "75",
+        height: "75",
+        alt: author.name
+      })), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("h2", {
+        className: "sidebar__author-title"
+      }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+        className: "sidebar__author-title-link",
+        to: "/"
+      }, author.name)), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
+        className: "sidebar__author-subtitle"
+      }, subtitle));
+      return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+        className: "sidebar"
+      }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+        className: "sidebar__inner"
+      }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+        className: "sidebar__author"
+      }, authorBlock), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Menu__WEBPACK_IMPORTED_MODULE_4__["default"], {
+        data: menu
+      }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Links__WEBPACK_IMPORTED_MODULE_5__["default"], {
+        data: author
+      }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
+        className: "sidebar__copyright"
+      }, copyright))));
+    },
+    data: _public_static_d_2195177324_json__WEBPACK_IMPORTED_MODULE_1__
+  });
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (Sidebar);
+var SidebarQuery = "2195177324";
 
 /***/ }),
 
@@ -21832,11 +21739,10 @@ function (_React$Component) {
   var _proto = CategoriesRoute.prototype;
 
   _proto.render = function render() {
-    var title = this.props.data.site.siteMetadata.title;
     var categories = this.props.data.allMarkdownRemark.group;
-    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_5__["default"], null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_4___default.a, {
-      title: "All Categories - " + title
-    }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_6__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
+    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      pageTitle: "All Categories"
+    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
       className: "content"
     }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
       className: "content__inner"
@@ -21858,14 +21764,14 @@ function (_React$Component) {
         to: "/categories/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_1___default()(category.fieldValue) + "/",
         className: "categories__list-item-link"
       }, category.fieldValue, " (", category.totalCount, ")"));
-    })))))))));
+    }))))))));
   };
 
   return CategoriesRoute;
 }(react__WEBPACK_IMPORTED_MODULE_2___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (CategoriesRoute);
-var pageQuery = "59674768";
+var pageQuery = "2147281069";
 
 /***/ }),
 
@@ -21873,22 +21779,20 @@ var pageQuery = "59674768";
 /*!*****************************!*\
   !*** ./src/pages/index.jsx ***!
   \*****************************/
-/*! exports provided: default, pageQuery */
+/*! exports provided: default, PostListQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageQuery", function() { return pageQuery; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PostListQuery", function() { return PostListQuery; });
+/* harmony import */ var _public_static_d_196174681_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/static/d/196174681.json */ "./public/static/d/196174681.json");
+var _public_static_d_196174681_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../public/static/d/196174681.json */ "./public/static/d/196174681.json", 1);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 /* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
+/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
 
 
 
@@ -21896,45 +21800,34 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
-var IndexRoute =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(IndexRoute, _React$Component);
-
-  function IndexRoute() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = IndexRoute.prototype;
-
-  _proto.render = function render() {
-    var items = [];
-    var _this$props$data$site = this.props.data.site.siteMetadata,
-        title = _this$props$data$site.title,
-        subtitle = _this$props$data$site.subtitle;
-    var posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach(function (post) {
-      items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
-        data: post,
-        key: post.node.fields.slug
-      }));
-    });
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", null, title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
-      name: "description",
-      content: subtitle
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_5__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content__inner"
-    }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_6__["default"], null))));
-  };
-
-  return IndexRoute;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+var IndexRoute = function IndexRoute() {
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["StaticQuery"], {
+    query: PostListQuery,
+    render: function render(data) {
+      var items = [];
+      var posts = data.allMarkdownRemark.edges;
+      posts.forEach(function (post) {
+        items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
+          data: post,
+          key: post.node.fields.slug
+        }));
+      });
+      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        pageTitle: "blog by Kinuz"
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+        className: "content"
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+        className: "content__inner"
+      }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_5__["default"], {
+        current: 1
+      })));
+    },
+    data: _public_static_d_196174681_json__WEBPACK_IMPORTED_MODULE_0__
+  });
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (IndexRoute);
-var pageQuery = "516818799";
+var PostListQuery = "196174681";
 
 /***/ }),
 
@@ -21964,14 +21857,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
-/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-
-
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 
 
 
@@ -21990,11 +21878,10 @@ function (_React$Component) {
   var _proto = TagsRoute.prototype;
 
   _proto.render = function render() {
-    var title = this.props.data.site.siteMetadata.title;
     var tags = this.props.data.allMarkdownRemark.group;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_5__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_3___default.a, {
-      title: "All Tags - " + title
-    }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_6__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      pageTitle: "All Tags"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content__inner"
@@ -22013,17 +21900,17 @@ function (_React$Component) {
         key: tag.fieldValue,
         className: "tags__list-item"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
-        to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_4___default()(tag.fieldValue) + "/",
+        to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3___default()(tag.fieldValue) + "/",
         className: "tags__list-item-link"
       }, tag.fieldValue, " (", tag.totalCount, ")"));
-    })))))))));
+    }))))))));
   };
 
   return TagsRoute;
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (TagsRoute);
-var pageQuery = "554414186";
+var pageQuery = "3778218043";
 
 /***/ }),
 
@@ -22041,13 +21928,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-/* harmony import */ var _components_CategoryTemplateDetails__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/CategoryTemplateDetails */ "./src/components/CategoryTemplateDetails.js");
-
-
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _components_CategoryTemplateDetails__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/CategoryTemplateDetails */ "./src/components/CategoryTemplateDetails.js");
 
 
 
@@ -22065,18 +21947,17 @@ function (_React$Component) {
   var _proto = CategoryTemplate.prototype;
 
   _proto.render = function render() {
-    var title = this.props.data.site.siteMetadata.title;
     var category = this.props.pageContext.category;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, {
-      title: category + " - " + title
-    }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_4__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_CategoryTemplateDetails__WEBPACK_IMPORTED_MODULE_5__["default"], this.props)));
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      pageTitle: "" + category
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_CategoryTemplateDetails__WEBPACK_IMPORTED_MODULE_3__["default"], this.props));
   };
 
   return CategoryTemplate;
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (CategoryTemplate);
-var pageQuery = "2950592589";
+var pageQuery = "281703132";
 
 /***/ }),
 
@@ -22124,10 +22005,10 @@ function (_React$Component) {
         pageTitle = _page$frontmatter.title,
         pageDescription = _page$frontmatter.description;
     var description = pageDescription !== null ? pageDescription : subtitle;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", null, pageTitle + " - " + title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
-      name: "description",
-      content: description
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_PageTemplateDetails__WEBPACK_IMPORTED_MODULE_4__["default"], this.props)));
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      pageTitle: pageTitle,
+      descriptio: description
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_PageTemplateDetails__WEBPACK_IMPORTED_MODULE_4__["default"], this.props));
   };
 
   return PageTemplate;
@@ -22152,13 +22033,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 /* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
-
+/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
 
 
 
@@ -22179,9 +22057,6 @@ function (_React$Component) {
 
   _proto.render = function render() {
     var items = [];
-    var _this$props$data$site = this.props.data.site.siteMetadata,
-        title = _this$props$data$site.title,
-        subtitle = _this$props$data$site.subtitle;
     var posts = this.props.data.allMarkdownRemark.edges;
     posts.forEach(function (post) {
       items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -22189,22 +22064,20 @@ function (_React$Component) {
         key: post.node.fields.slug
       }));
     });
-    var tmp = JSON.stringify(this.props);
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", null, title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
-      name: "description",
-      content: subtitle
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_5__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      pageTitle: "page : 2"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content"
-    }, tmp, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content__inner"
-    }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_6__["default"], null))));
+    }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_5__["default"], null)));
   };
 
   return PostListTemplate;
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (PostListTemplate);
-var pageListQuery = "957714498";
+var pageListQuery = "169280079";
 
 /***/ }),
 
@@ -22252,10 +22125,11 @@ function (_React$Component) {
         postTitle = _post$frontmatter.title,
         postDescription = _post$frontmatter.description;
     var description = postDescription !== null ? postDescription : subtitle;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", null, postTitle + " - " + title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
-      name: "description",
-      content: description
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_PostTemplateDetails__WEBPACK_IMPORTED_MODULE_4__["default"], this.props)));
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      pageTitle: postTitle,
+      description: description,
+      hideSidebar: true
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_PostTemplateDetails__WEBPACK_IMPORTED_MODULE_4__["default"], this.props));
   };
 
   return PostTemplate;
@@ -22280,13 +22154,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-/* harmony import */ var _components_TagTemplateDetails__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/TagTemplateDetails */ "./src/components/TagTemplateDetails.jsx");
-
-
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _components_TagTemplateDetails__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/TagTemplateDetails */ "./src/components/TagTemplateDetails.jsx");
 
 
 
@@ -22304,18 +22173,17 @@ function (_React$Component) {
   var _proto = TagTemplate.prototype;
 
   _proto.render = function render() {
-    var title = this.props.data.site.siteMetadata.title;
     var tag = this.props.pageContext.tag;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, {
-      title: "All Posts tagged as \"" + tag + "\" - " + title
-    }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_4__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_TagTemplateDetails__WEBPACK_IMPORTED_MODULE_5__["default"], this.props)));
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      pageTitle: "All Posts tagged as \"" + tag + "\""
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_TagTemplateDetails__WEBPACK_IMPORTED_MODULE_3__["default"], this.props));
   };
 
   return TagTemplate;
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (TagTemplate);
-var pageQuery = "147612761";
+var pageQuery = "3442363095";
 
 /***/ }),
 
@@ -22481,17 +22349,6 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 /***/ (function(module, exports) {
 
 module.exports = __WEBPACK_EXTERNAL_MODULE_lodash__;
-
-/***/ }),
-
-/***/ "lodash/get":
-/*!*****************************!*\
-  !*** external "lodash/get" ***!
-  \*****************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_get__;
 
 /***/ }),
 
