@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$listsize\" got invalid value \"2\"; Expected type Int; Int cannot represent non-integer value: \"2\"","locations":[{"line":3,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"total":4,"limit":3,"listsize":"2","pagesize":"10","skip":3,"current":2}}

@@ -393,7 +393,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! exports provided: pages, dataPaths, default */
 /***/ (function(module) {
 
-module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-development-ee2","path":"/categories/development/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-sample-f70","path":"/categories/sample/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-vagrant-61a","path":"/categories/vagrant/"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-2-b45","path":"/page/2"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-3-02e","path":"/page/3"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-docker-machine으로-docker-클러스터-구축-b7f","path":"/posts/Docker-machine으로 Docker 클러스터 구축/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-a-brief-history-of-typography-7dd","path":"/posts/a-brief-history-of-typography/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-humane-typography-in-the-digital-age-733","path":"/posts/humane-typography-in-the-digital-age/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-record-and-share-your-terminal-sessions-53e","path":"/posts/record-and-share-your-terminal-sessions/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-test-vagrant-환경으로-docker-클러스터-구축-2db","path":"/posts/test-Vagrant 환경으로 Docker 클러스터 구축/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-birth-of-movable-type-6bf","path":"/posts/the-birth-of-movable-type/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-origins-of-social-stationery-lettering-240","path":"/posts/the-origins-of-social-stationery-lettering"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-upgraded-to-gatsby-v-2-ea6","path":"/posts/upgraded-to-gatsby-v2/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-development-339","path":"/tags/development/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-docker-fd3","path":"/tags/docker/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-gatsby-b93","path":"/tags/gatsby/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-provisioning-74f","path":"/tags/provisioning/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-vagrant-c15","path":"/tags/vagrant/"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"648/path---about-771-2fe-9V93Zm6PBzD6AYRHu2FvS15u3I","categories-design-culture-571":"813/path---categories-design-culture-571-9ee-kHar3LZcAOEgYAz25hxivpiVDM","categories-design-inspiration-177":"526/path---categories-design-inspiration-177-83e-BEqJzsJ2h08rQNdCWRBBDz737M8","categories-development-ee2":"519/path---categories-development-ee-2-fd1-ftjWzScIQWt7DrKaaUeZlJyPxA","categories-e90":"71/path---categories-e-90-f59-ULqU0HEFtlPOIUbE62fCHjkob8w","categories-hello-e79":"841/path---categories-hello-e-79-bae-dB3wSC3MQXY1bbWzSJwORhRpCo","categories-sample-f70":"215/path---categories-sample-f-70-54b-5ZQTYeTAh82GWZte1qq068JjBrY","categories-test-a20":"309/path---categories-test-a-20-86b-DLBIbpsXzcGNJjKBGfiHLh8T2k","categories-typography-0ee":"2/path---categories-typography-0-ee-86c-tfnBwPDrE2gGSdHnljMmcBfb2JQ","categories-vagrant-61a":"326/path---categories-vagrant-61-a-818-3lgHRCRjJoy2I9BGYKfjihRDRnE","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","index":"145/path---index-6a9-t3of82b08gEdYHSnk4Y83IQ6Ocg","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","page-2-b45":"936/path---page-2-b-45-94b-BT3lGLiKqhFTHxvOhZO5cySKUZo","page-3-02e":"243/path---page-3-02-e-288-JJx5egk4L33dE5sRPiUiVen8JE8","page-4-365":"634/path---page-4-365-3e1-zVJiPxoF2uorilr0ezeXVUbRafU","posts-a-brief-history-of-typography-7dd":"435/path---posts-a-brief-history-of-typography-7-dd-3b3-fH3z3mbE83EmIllsN25UY0p78k","posts-docker-machine으로-docker-클러스터-구축-b7f":"206/path---posts-docker-machine으로-docker-클러스터-구축-b-7-f-dff-slZkwKFdmiARoO90zGk0LRsqlM","posts-humane-typography-in-the-digital-age-733":"797/path---posts-humane-typography-in-the-digital-age-733-28c-u0gGWI1ZCkwDbWAZoQAM7Q7n8A","posts-perfecting-the-art-of-perfection-326":"469/path---posts-perfecting-the-art-of-perfection-326-2f5-0VqA0hy6KEJCvrAUjHD0fv5hYo","posts-record-and-share-your-terminal-sessions-53e":"451/path---posts-record-and-share-your-terminal-sessions-53-e-f7c-0jveBNs7nNDgmEm0tYgJDQgCR6E","posts-test-post-4a9":"436/path---posts-test-post-4-a-9-90e-V0sKVJHPxCh3Vtepa1HsqlNoI","posts-test-vagrant-환경으로-docker-클러스터-구축-2db":"153/path---posts-test-vagrant-환경으로-docker-클러스터-구축-2-db-edf-799GgPC8Sw19rmxpoRt2Ms2ZCg","posts-the-birth-of-movable-type-6bf":"741/path---posts-the-birth-of-movable-type-6-bf-ee4-FoLSZe9v6yOKg0EHSqaFmH9ysd8","posts-the-origins-of-social-stationery-lettering-240":"902/path---posts-the-origins-of-social-stationery-lettering-240-a50-myJ0c5H1CkKwjHglP9ZHvnGshxY","posts-upgraded-to-gatsby-v-2-ea6":"601/path---posts-upgraded-to-gatsby-v-2-ea-6-f18-DKF4UfClrDDL179dk3HQlc9Qtns","record-terminal-f14":"279/path---record-terminal-f-14-7e2-wvhtVDQRHzdwymYxCuiKCHk61yQ","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"sq--src-pages-index-jsx":1070360365,"tags-275":"971/path---tags-275-fc0-Yr0rLmAA6rZ5o8sfNo7cxqIOiJE","tags-design-cda":"37/path---tags-design-cda-a0d-VOvuoleVBH2tRGNbYYPNPlH0I","tags-development-339":"430/path---tags-development-339-b64-kVPPraoo4dwbrs0VTzZj2UlQhkk","tags-docker-fd3":"821/path---tags-docker-fd-3-bbf-jx5acKWvysJclPpSNwvvqVLMNE0","tags-gatsby-b93":"250/path---tags-gatsby-b-93-350-Q4GWFS2bCAjYKvZEEitIok3ASgk","tags-handwriting-26b":"152/path---tags-handwriting-26-b-a7c-Hj2d2j4Fc6pGZKGIMFTn1vHQX6k","tags-helvetica-270":"47/path---tags-helvetica-270-530-30F0Mlsos8bUm0nsUEiW4CoONo","tags-history-c4d":"896/path---tags-history-c-4-d-70f-2yS3Mq5HbPtCmh6MvvS6zmgTpxk","tags-history-of-typography-1cf":"623/path---tags-history-of-typography-1-cf-fe4-Ea0aXpFxAPyA7xoAalqdIgTV5pY","tags-learning-to-write-b99":"342/path---tags-learning-to-write-b-99-a2b-FCEUXHXadYfor3lbPwFUgzQIGu8","tags-lettering-6d7":"213/path---tags-lettering-6-d-7-362-zabsIzrhOaB0LH5Y3ddgpIbN6A","tags-linotype-fd9":"925/path---tags-linotype-fd-9-db5-Tv9x9FeVZyzHKZnmvG1Tosja0","tags-manjaro-cab":"66/path---tags-manjaro-cab-4a0-T8bSkrWewPRaQOcJXYlvaCSC6E","tags-monotype-bef":"284/path---tags-monotype-bef-e29-NX1jLwR465pSLh1pIEfNAtqs4w","tags-open-source-0ee":"771/path---tags-open-source-0-ee-962-I4I5r7JEvn5oxcR9ZwoThy7Qh5Y","tags-provisioning-74f":"124/path---tags-provisioning-74-f-fba-T35hWDyPjt0ezJsOOpSaaDvYvA","tags-test-7c5":"924/path---tags-test-7-c-5-3e3-QXz4AbzI63JXIn2JPmo8qxUOfA","tags-typefaces-0cb":"214/path---tags-typefaces-0-cb-b2e-qzkwih3C8rTOnohAZLimVXuUaiM","tags-typography-d19":"129/path---tags-typography-d-19-b34-VxAJ2zzomlMk2wm0un2wig97TWI","tags-vagrant-c15":"408/path---tags-vagrant-c-15-5b9-Ak96xiXV4uxqCKNxhj5nhXHFxo","tags-web-development-f99":"55/path---tags-web-development-f-99-b07-11dACeJbueLAV4g91hQamhPuebA"}};
+module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-development-ee2","path":"/categories/development/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-manjaro-380","path":"/categories/manjaro/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-vagrant-61a","path":"/categories/vagrant/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"development-2019-03-13-asciinema-79d","path":"/development/2019/03/13/asciinema"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"manjaro-2019-04-10-terminal-mp-3-player-cmus-142","path":"/manjaro/2019/04/10/terminal-mp-3-player-cmus"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-development-339","path":"/tags/development/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-docker-fd3","path":"/tags/docker/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-manjaro-cab","path":"/tags/manjaro/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-provisioning-74f","path":"/tags/provisioning/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-vagrant-c15","path":"/tags/vagrant/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22d","path":"/vagrant/2019/04/10/vagrant-환경으로-docker-클러스터-구축"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df0","path":"/vagrant/2019/04/11/docker-machine으로-docker-클러스터-구축"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"735/path---about-771-2fe-H8ZDK7kwVZNMfdTg1JlMLvxo8g","categories-development-ee2":"111/path---categories-development-ee-2-fd1-n4HWZRKBiCxI1leCAhpvWqixeA","categories-e90":"907/path---categories-e-90-f59-ENDmBoBDMlU6zrTxWoIk1yU6UY","categories-manjaro-380":"388/path---categories-manjaro-380-dae-NfgKBSBw98IyLDrJwZZSHSMPUI","categories-vagrant-61a":"912/path---categories-vagrant-61-a-818-aC0ls8zwIt9XGaZ6syNBjuJXmIM","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","development-2019-03-13-asciinema-79d":"232/path---development-2019-03-13-asciinema-79-d-6ae-8KCieGv9zOxGqQXK4y6ChMecPDA","index":"490/path---index-6a9-ePGvvWuY3mj7ArWsR8Rl6KzSKo0","manjaro-2019-04-10-terminal-mp-3-player-cmus-142":"26/path---manjaro-2019-04-10-terminal-mp-3-player-cmus-142-0d4-RWjRkEk6TH03p1fiHjC9PXtq9pI","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"tags-275":"300/path---tags-275-fc0-FPVcz3ktPoml46sA6gzsodpWqZU","tags-development-339":"788/path---tags-development-339-b64-BpdeQPuKngiHK26FgyINqKOt9g0","tags-docker-fd3":"148/path---tags-docker-fd-3-bbf-UofxePJUwgiBs4ZnXm9m2uQ8zds","tags-manjaro-cab":"598/path---tags-manjaro-cab-4a0-120QI6wu79mHkachThzBiOKE","tags-provisioning-74f":"44/path---tags-provisioning-74-f-fba-fHzJz8HkrJIMfji5OrNcUikP0Fs","tags-vagrant-c15":"169/path---tags-vagrant-c-15-5b9-m6kkF5tCsmVCcBI3mALA0uRdLY0","vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22d":"883/path---vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22-d-137-leCuUWUcNlAF1VJgYow2EvnXHYA","vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df0":"138/path---vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df-0-248-VhLwshV84MYOit8ARBBplBl48"}};
 
 /***/ }),
 
@@ -1029,7 +1029,6 @@ exports.components = {
   "component---src-templates-post-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/post-template.jsx */ "./src/templates/post-template.jsx"))),
   "component---src-templates-tag-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/tag-template.jsx */ "./src/templates/tag-template.jsx"))),
   "component---src-templates-category-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/category-template.jsx */ "./src/templates/category-template.jsx"))),
-  "component---src-templates-post-list-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/post-list-template.jsx */ "./src/templates/post-list-template.jsx"))),
   "component---src-pages-404-jsx": hot(preferDefault(__webpack_require__(/*! ./src/pages/404.jsx */ "./src/pages/404.jsx"))),
   "component---src-pages-categories-jsx": hot(preferDefault(__webpack_require__(/*! ./src/pages/categories.jsx */ "./src/pages/categories.jsx"))),
   "component---src-pages-index-jsx": hot(preferDefault(__webpack_require__(/*! ./src/pages/index.jsx */ "./src/pages/index.jsx"))),
@@ -2083,10 +2082,10 @@ exports.defaultOptions = defaultOptions;
 /*!******************************************!*\
   !*** ./node_modules/gatsby/package.json ***!
   \******************************************/
-/*! exports provided: _args, _from, _id, _inBundle, _integrity, _location, _phantomChildren, _requested, _requiredBy, _resolved, _spec, _where, author, bin, bugs, dependencies, description, devDependencies, engines, files, gitHead, homepage, keywords, license, main, module, name, peerDependencies, repository, resolutions, scripts, types, version, yargs, default */
+/*! exports provided: _from, _id, _inBundle, _integrity, _location, _phantomChildren, _requested, _requiredBy, _resolved, _shasum, _spec, _where, author, bin, bugs, bundleDependencies, dependencies, deprecated, description, devDependencies, engines, files, gitHead, homepage, keywords, license, main, module, name, peerDependencies, repository, resolutions, scripts, types, version, yargs, default */
 /***/ (function(module) {
 
-module.exports = {"_args":[["gatsby@2.3.14","/home/jun/projects/myblog"]],"_from":"gatsby@2.3.14","_id":"gatsby@2.3.14","_inBundle":false,"_integrity":"sha512-5ELb1SpYYNt+5/38NwyaFrOSPtVwEjhxIKsaeglrD1jDhi8mycXezBrf+IFNE/I0r0K7BtER36W1oB+FH3fQ2g==","_location":"/gatsby","_phantomChildren":{"@babel/code-frame":"7.0.0","@babel/parser":"7.4.3","@babel/runtime":"7.4.3","@babel/traverse":"7.4.3","@babel/types":"7.4.0","ajv":"6.10.0","bluebird":"3.5.4","chalk":"2.4.2","common-tags":"1.8.0","convert-hrtime":"2.0.0","core-js":"2.6.5","decamelize":"1.2.0","doctrine":"3.0.0","envinfo":"5.12.1","eslint-scope":"3.7.1","eslint-utils":"1.3.1","eslint-visitor-keys":"1.0.0","espree":"5.0.1","esquery":"1.0.1","esrecurse":"4.2.1","estraverse":"4.2.0","esutils":"2.0.2","file-entry-cache":"5.0.1","fs-exists-cached":"1.0.0","functional-red-black-tree":"1.0.1","gatsby-telemetry":"1.0.5","get-caller-file":"1.0.3","get-stream":"3.0.0","glob":"7.1.3","globals":"11.11.0","graceful-fs":"4.1.15","hosted-git-info":"2.7.1","ignore":"4.0.6","imurmurhash":"0.1.4","inquirer":"6.2.2","is-stream":"1.1.0","js-yaml":"3.13.1","json-stable-stringify-without-jsonify":"1.0.1","jsonfile":"4.0.0","levn":"0.3.0","lodash":"4.17.11","lru-cache":"4.1.5","map-age-cleaner":"0.1.3","meant":"1.0.1","minimatch":"3.0.4","mkdirp":"0.5.1","ms":"2.1.1","natural-compare":"1.4.0","nice-try":"1.0.5","npm-run-path":"2.0.2","opentracing":"0.14.3","optionator":"0.8.2","p-finally":"1.0.0","p-is-promise":"2.0.0","parent-module":"1.0.1","path-exists":"3.0.0","path-is-inside":"1.0.2","path-key":"2.0.1","pretty-error":"2.1.1","progress":"2.0.3","pump":"3.0.0","regexpp":"2.0.1","require-directory":"2.1.1","require-main-filename":"1.0.1","resolve-cwd":"2.0.0","semver":"5.7.0","set-blocking":"2.0.0","shebang-command":"1.2.0","signal-exit":"3.0.2","source-map":"0.5.7","stack-trace":"0.0.10","string-width":"2.1.1","strip-eof":"1.0.0","strip-json-comments":"2.0.1","table":"5.2.3","text-table":"0.2.0","universalify":"0.1.2","update-notifier":"2.5.0","uuid":"3.3.2","which":"1.3.1","which-module":"2.0.0","wrap-ansi":"2.1.0","y18n":"3.2.1","yurnalist":"1.0.5"},"_requested":{"type":"version","registry":true,"raw":"gatsby@2.3.14","name":"gatsby","escapedName":"gatsby","rawSpec":"2.3.14","saveSpec":null,"fetchSpec":"2.3.14"},"_requiredBy":["/"],"_resolved":"https://registry.npmjs.org/gatsby/-/gatsby-2.3.14.tgz","_spec":"2.3.14","_where":"/home/jun/projects/myblog","author":{"name":"Kyle Mathews","email":"mathews.kyle@gmail.com"},"bin":{"gatsby":"./dist/bin/gatsby.js"},"bugs":{"url":"https://github.com/gatsbyjs/gatsby/issues"},"dependencies":{"@babel/code-frame":"^7.0.0","@babel/core":"^7.0.0","@babel/parser":"^7.0.0","@babel/polyfill":"^7.0.0","@babel/runtime":"^7.0.0","@babel/traverse":"^7.0.0","@gatsbyjs/relay-compiler":"2.0.0-printer-fix.2","@mikaelkristiansson/domready":"^1.0.9","@pieh/friendly-errors-webpack-plugin":"1.7.0-chalk-2","@reach/router":"^1.1.1","@stefanprobst/lokijs":"^1.5.6-b","address":"1.0.3","autoprefixer":"^9.4.3","babel-core":"7.0.0-bridge.0","babel-eslint":"^9.0.0","babel-loader":"^8.0.0","babel-plugin-add-module-exports":"^0.2.1","babel-plugin-dynamic-import-node":"^1.2.0","babel-plugin-remove-graphql-queries":"^2.6.3","babel-preset-gatsby":"^0.1.11","better-opn":"0.1.4","better-queue":"^3.8.6","bluebird":"^3.5.0","browserslist":"3.2.8","cache-manager":"^2.9.0","cache-manager-fs-hash":"^0.0.6","chalk":"^2.3.2","chokidar":"2.1.2","common-tags":"^1.4.0","compression":"^1.7.3","convert-hrtime":"^2.0.0","copyfiles":"^1.2.0","core-js":"^2.5.0","css-loader":"^1.0.0","debug":"^3.1.0","del":"^3.0.0","detect-port":"^1.2.1","devcert-san":"^0.3.3","dotenv":"^4.0.0","eslint":"^5.6.0","eslint-config-react-app":"^3.0.0","eslint-loader":"^2.1.0","eslint-plugin-flowtype":"^2.46.1","eslint-plugin-graphql":"^2.0.0","eslint-plugin-import":"^2.9.0","eslint-plugin-jsx-a11y":"^6.0.3","eslint-plugin-react":"^7.8.2","event-source-polyfill":"^1.0.5","express":"^4.16.3","express-graphql":"^0.6.12","fast-levenshtein":"~2.0.4","file-loader":"^1.1.11","flat":"^4.0.0","fs-exists-cached":"1.0.0","fs-extra":"^5.0.0","gatsby-cli":"^2.5.5","gatsby-link":"^2.0.16","gatsby-plugin-page-creator":"^2.0.12","gatsby-react-router-scroll":"^2.0.7","gatsby-telemetry":"^1.0.5","glob":"^7.1.1","graphql":"^14.1.1","graphql-compose":"^6.0.3","graphql-playground-middleware-express":"^1.7.10","graphql-relay":"^0.6.0","graphql-tools":"^3.0.4","hash-mod":"^0.0.5","invariant":"^2.2.4","is-relative":"^1.0.0","is-relative-url":"^2.0.0","is-wsl":"^1.1.0","jest-worker":"^23.2.0","joi":"12.x.x","json-loader":"^0.5.7","json-stringify-safe":"^5.0.1","kebab-hash":"^0.1.2","lodash":"^4.17.10","md5":"^2.2.1","md5-file":"^3.1.1","mime":"^2.2.0","mini-css-extract-plugin":"^0.4.0","mitt":"^1.1.2","mkdirp":"^0.5.1","moment":"^2.21.0","name-all-modules-plugin":"^1.0.1","normalize-path":"^2.1.1","null-loader":"^0.1.1","opentracing":"^0.14.3","optimize-css-assets-webpack-plugin":"^5.0.1","parseurl":"^1.3.2","physical-cpu-count":"^2.0.0","pnp-webpack-plugin":"^1.4.1","postcss-flexbugs-fixes":"^3.0.0","postcss-loader":"^2.1.3","prop-types":"^15.6.1","raw-loader":"^0.5.1","react-dev-utils":"^4.2.1","react-error-overlay":"^3.0.0","react-hot-loader":"^4.6.2","redux":"^4.0.0","request":"^2.85.0","semver":"^5.6.0","shallow-compare":"^1.2.2","sift":"^5.1.0","signal-exit":"^3.0.2","slash":"^1.0.0","socket.io":"^2.0.3","stack-trace":"^0.0.10","string-similarity":"^1.2.0","style-loader":"^0.21.0","terser-webpack-plugin":"^1.2.2","true-case-path":"^1.0.3","type-of":"^2.0.1","url-loader":"^1.0.1","util.promisify":"^1.0.0","uuid":"^3.1.0","v8-compile-cache":"^1.1.0","webpack":"~4.28.4","webpack-dev-middleware":"^3.0.1","webpack-dev-server":"^3.1.14","webpack-hot-middleware":"^2.21.0","webpack-merge":"^4.1.0","webpack-stats-plugin":"^0.1.5","xstate":"^4.3.2","yaml-loader":"^0.5.0"},"description":"Blazing fast modern site generator for React","devDependencies":{"@babel/cli":"^7.0.0","@babel/runtime":"^7.0.0","babel-preset-gatsby-package":"^0.1.4","cross-env":"^5.1.4","rimraf":"^2.6.1"},"engines":{"node":">=6.0.0"},"files":["cache-dir","dist","graphql.js","index.d.ts"],"gitHead":"169c9640938864414189bfb744694678bf973a89","homepage":"https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby#readme","keywords":["blog","generator","jekyll","markdown","react","ssg","website"],"license":"MIT","main":"cache-dir/commonjs/gatsby-browser-entry.js","module":"cache-dir/gatsby-browser-entry.js","name":"gatsby","peerDependencies":{"react":"^16.4.2","react-dom":"^16.4.2"},"repository":{"type":"git","url":"git+https://github.com/gatsbyjs/gatsby.git"},"resolutions":{"graphql":"^14.1.1"},"scripts":{"build":"npm run build:src && npm run build:internal-plugins && npm run build:rawfiles && npm run build:cjs","build:cjs":"babel cache-dir --out-dir cache-dir/commonjs --ignore **/__tests__","build:internal-plugins":"copyfiles -u 1 src/internal-plugins/**/package.json dist","build:rawfiles":"copyfiles -u 1 src/internal-plugins/**/raw_* dist","build:src":"babel src --out-dir dist --source-maps --ignore **/gatsby-cli.js,**/raw_*,**/__tests__","clean-test-bundles":"find test/ -type f -name bundle.js* -exec rm -rf {} +","prebuild":"rimraf dist && rimraf cache-dir/commonjs","prepare":"cross-env NODE_ENV=production npm run build","watch":"rimraf dist && mkdir dist && npm run build:internal-plugins && npm run build:rawfiles && npm run build:src -- --watch"},"types":"index.d.ts","version":"2.3.14","yargs":{"boolean-negation":false}};
+module.exports = {"_from":"gatsby@^2.0.22","_id":"gatsby@2.3.14","_inBundle":false,"_integrity":"sha512-5ELb1SpYYNt+5/38NwyaFrOSPtVwEjhxIKsaeglrD1jDhi8mycXezBrf+IFNE/I0r0K7BtER36W1oB+FH3fQ2g==","_location":"/gatsby","_phantomChildren":{"@babel/code-frame":"7.0.0","@babel/parser":"7.4.3","@babel/runtime":"7.4.3","@babel/traverse":"7.4.3","@babel/types":"7.4.0","ajv":"6.10.0","bluebird":"3.5.4","chalk":"2.4.2","common-tags":"1.8.0","convert-hrtime":"2.0.0","core-js":"2.6.5","decamelize":"1.2.0","doctrine":"3.0.0","envinfo":"5.12.1","eslint-scope":"3.7.1","eslint-utils":"1.3.1","eslint-visitor-keys":"1.0.0","espree":"5.0.1","esquery":"1.0.1","esrecurse":"4.2.1","estraverse":"4.2.0","esutils":"2.0.2","file-entry-cache":"5.0.1","fs-exists-cached":"1.0.0","functional-red-black-tree":"1.0.1","gatsby-telemetry":"1.0.5","get-caller-file":"1.0.3","get-stream":"3.0.0","glob":"7.1.3","globals":"11.11.0","graceful-fs":"4.1.15","hosted-git-info":"2.7.1","ignore":"4.0.6","imurmurhash":"0.1.4","inquirer":"6.2.2","is-stream":"1.1.0","js-yaml":"3.13.1","json-stable-stringify-without-jsonify":"1.0.1","jsonfile":"4.0.0","levn":"0.3.0","lodash":"4.17.11","lru-cache":"4.1.5","map-age-cleaner":"0.1.3","meant":"1.0.1","minimatch":"3.0.4","mkdirp":"0.5.1","ms":"2.1.1","natural-compare":"1.4.0","nice-try":"1.0.5","npm-run-path":"2.0.2","opentracing":"0.14.3","optionator":"0.8.2","p-finally":"1.0.0","p-is-promise":"2.0.0","parent-module":"1.0.1","path-exists":"3.0.0","path-is-inside":"1.0.2","path-key":"2.0.1","pretty-error":"2.1.1","progress":"2.0.3","pump":"3.0.0","regexpp":"2.0.1","require-directory":"2.1.1","require-main-filename":"1.0.1","resolve-cwd":"2.0.0","semver":"5.7.0","set-blocking":"2.0.0","shebang-command":"1.2.0","signal-exit":"3.0.2","source-map":"0.5.7","stack-trace":"0.0.10","string-width":"2.1.1","strip-eof":"1.0.0","strip-json-comments":"2.0.1","table":"5.2.3","text-table":"0.2.0","universalify":"0.1.2","update-notifier":"2.5.0","uuid":"3.3.2","which":"1.3.1","which-module":"2.0.0","wrap-ansi":"2.1.0","y18n":"3.2.1","yurnalist":"1.0.5"},"_requested":{"type":"range","registry":true,"raw":"gatsby@^2.0.22","name":"gatsby","escapedName":"gatsby","rawSpec":"^2.0.22","saveSpec":null,"fetchSpec":"^2.0.22"},"_requiredBy":["/"],"_resolved":"https://registry.npmjs.org/gatsby/-/gatsby-2.3.14.tgz","_shasum":"38df02cbb33407cf7cb48bbf5d53b25dd7aeb8cc","_spec":"gatsby@^2.0.22","_where":"/home/jun/projects/lumen","author":{"name":"Kyle Mathews","email":"mathews.kyle@gmail.com"},"bin":{"gatsby":"./dist/bin/gatsby.js"},"bugs":{"url":"https://github.com/gatsbyjs/gatsby/issues"},"bundleDependencies":false,"dependencies":{"@babel/code-frame":"^7.0.0","@babel/core":"^7.0.0","@babel/parser":"^7.0.0","@babel/polyfill":"^7.0.0","@babel/runtime":"^7.0.0","@babel/traverse":"^7.0.0","@gatsbyjs/relay-compiler":"2.0.0-printer-fix.2","@mikaelkristiansson/domready":"^1.0.9","@pieh/friendly-errors-webpack-plugin":"1.7.0-chalk-2","@reach/router":"^1.1.1","@stefanprobst/lokijs":"^1.5.6-b","address":"1.0.3","autoprefixer":"^9.4.3","babel-core":"7.0.0-bridge.0","babel-eslint":"^9.0.0","babel-loader":"^8.0.0","babel-plugin-add-module-exports":"^0.2.1","babel-plugin-dynamic-import-node":"^1.2.0","babel-plugin-remove-graphql-queries":"^2.6.3","babel-preset-gatsby":"^0.1.11","better-opn":"0.1.4","better-queue":"^3.8.6","bluebird":"^3.5.0","browserslist":"3.2.8","cache-manager":"^2.9.0","cache-manager-fs-hash":"^0.0.6","chalk":"^2.3.2","chokidar":"2.1.2","common-tags":"^1.4.0","compression":"^1.7.3","convert-hrtime":"^2.0.0","copyfiles":"^1.2.0","core-js":"^2.5.0","css-loader":"^1.0.0","debug":"^3.1.0","del":"^3.0.0","detect-port":"^1.2.1","devcert-san":"^0.3.3","dotenv":"^4.0.0","eslint":"^5.6.0","eslint-config-react-app":"^3.0.0","eslint-loader":"^2.1.0","eslint-plugin-flowtype":"^2.46.1","eslint-plugin-graphql":"^2.0.0","eslint-plugin-import":"^2.9.0","eslint-plugin-jsx-a11y":"^6.0.3","eslint-plugin-react":"^7.8.2","event-source-polyfill":"^1.0.5","express":"^4.16.3","express-graphql":"^0.6.12","fast-levenshtein":"~2.0.4","file-loader":"^1.1.11","flat":"^4.0.0","fs-exists-cached":"1.0.0","fs-extra":"^5.0.0","gatsby-cli":"^2.5.5","gatsby-link":"^2.0.16","gatsby-plugin-page-creator":"^2.0.12","gatsby-react-router-scroll":"^2.0.7","gatsby-telemetry":"^1.0.5","glob":"^7.1.1","graphql":"^14.1.1","graphql-compose":"^6.0.3","graphql-playground-middleware-express":"^1.7.10","graphql-relay":"^0.6.0","graphql-tools":"^3.0.4","hash-mod":"^0.0.5","invariant":"^2.2.4","is-relative":"^1.0.0","is-relative-url":"^2.0.0","is-wsl":"^1.1.0","jest-worker":"^23.2.0","joi":"12.x.x","json-loader":"^0.5.7","json-stringify-safe":"^5.0.1","kebab-hash":"^0.1.2","lodash":"^4.17.10","md5":"^2.2.1","md5-file":"^3.1.1","mime":"^2.2.0","mini-css-extract-plugin":"^0.4.0","mitt":"^1.1.2","mkdirp":"^0.5.1","moment":"^2.21.0","name-all-modules-plugin":"^1.0.1","normalize-path":"^2.1.1","null-loader":"^0.1.1","opentracing":"^0.14.3","optimize-css-assets-webpack-plugin":"^5.0.1","parseurl":"^1.3.2","physical-cpu-count":"^2.0.0","pnp-webpack-plugin":"^1.4.1","postcss-flexbugs-fixes":"^3.0.0","postcss-loader":"^2.1.3","prop-types":"^15.6.1","raw-loader":"^0.5.1","react-dev-utils":"^4.2.1","react-error-overlay":"^3.0.0","react-hot-loader":"^4.6.2","redux":"^4.0.0","request":"^2.85.0","semver":"^5.6.0","shallow-compare":"^1.2.2","sift":"^5.1.0","signal-exit":"^3.0.2","slash":"^1.0.0","socket.io":"^2.0.3","stack-trace":"^0.0.10","string-similarity":"^1.2.0","style-loader":"^0.21.0","terser-webpack-plugin":"^1.2.2","true-case-path":"^1.0.3","type-of":"^2.0.1","url-loader":"^1.0.1","util.promisify":"^1.0.0","uuid":"^3.1.0","v8-compile-cache":"^1.1.0","webpack":"~4.28.4","webpack-dev-middleware":"^3.0.1","webpack-dev-server":"^3.1.14","webpack-hot-middleware":"^2.21.0","webpack-merge":"^4.1.0","webpack-stats-plugin":"^0.1.5","xstate":"^4.3.2","yaml-loader":"^0.5.0"},"deprecated":false,"description":"Blazing fast modern site generator for React","devDependencies":{"@babel/cli":"^7.0.0","@babel/runtime":"^7.0.0","babel-preset-gatsby-package":"^0.1.4","cross-env":"^5.1.4","rimraf":"^2.6.1"},"engines":{"node":">=6.0.0"},"files":["cache-dir","dist","graphql.js","index.d.ts"],"gitHead":"169c9640938864414189bfb744694678bf973a89","homepage":"https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby#readme","keywords":["blog","generator","jekyll","markdown","react","ssg","website"],"license":"MIT","main":"cache-dir/commonjs/gatsby-browser-entry.js","module":"cache-dir/gatsby-browser-entry.js","name":"gatsby","peerDependencies":{"react":"^16.4.2","react-dom":"^16.4.2"},"repository":{"type":"git","url":"git+https://github.com/gatsbyjs/gatsby.git"},"resolutions":{"graphql":"^14.1.1"},"scripts":{"build":"npm run build:src && npm run build:internal-plugins && npm run build:rawfiles && npm run build:cjs","build:cjs":"babel cache-dir --out-dir cache-dir/commonjs --ignore **/__tests__","build:internal-plugins":"copyfiles -u 1 src/internal-plugins/**/package.json dist","build:rawfiles":"copyfiles -u 1 src/internal-plugins/**/raw_* dist","build:src":"babel src --out-dir dist --source-maps --ignore **/gatsby-cli.js,**/raw_*,**/__tests__","clean-test-bundles":"find test/ -type f -name bundle.js* -exec rm -rf {} +","prebuild":"rimraf dist && rimraf cache-dir/commonjs","prepare":"cross-env NODE_ENV=production npm run build","watch":"rimraf dist && mkdir dist && npm run build:internal-plugins && npm run build:rawfiles && npm run build:src -- --watch"},"types":"index.d.ts","version":"2.3.14","yargs":{"boolean-negation":false}};
 
 /***/ }),
 
@@ -20758,17 +20757,6 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./public/static/d/1070360365.json":
-/*!*****************************************!*\
-  !*** ./public/static/d/1070360365.json ***!
-  \*****************************************/
-/*! exports provided: data, default */
-/***/ (function(module) {
-
-module.exports = {"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/posts/Docker-machine으로 Docker 클러스터 구축/","categorySlug":"/categories/vagrant/"},"frontmatter":{"title":"Docker-machine으로 Docker 클러스터 구축","date":"2019-04-10T23:01:57.000Z","category":"vagrant","description":"Provisioning Docker machines","tags":["docker","provisioning"]}}},{"node":{"fields":{"slug":"/posts/test-Vagrant 환경으로 Docker 클러스터 구축/","categorySlug":"/categories/vagrant/"},"frontmatter":{"title":"Vagrant 환경으로 Docker 클러스터 구축","date":"2019-04-09T20:13:31.000Z","category":"vagrant","description":"Provisioning Vagrant multi-machines with Ansible","tags":["vagrant","provisioning"]}}},{"node":{"fields":{"slug":"/posts/record-and-share-your-terminal-sessions/","categorySlug":"/categories/development/"},"frontmatter":{"title":"asciinema","date":"2019-03-12T21:51:23.000Z","category":"development","description":"Record and share your terminal sessions","tags":["development"]}}},{"node":{"fields":{"slug":"/posts/upgraded-to-gatsby-v2/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"Upgraded to Gatsby v2","date":"2018-10-18T16:51:00.000Z","category":"sample","description":"This starter has been forked and upgraded to Gatsby v2","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/humane-typography-in-the-digital-age/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"Humane Typography in the Digital Age","date":"2017-08-19T22:40:32.169Z","category":"sample","description":"An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/the-birth-of-movable-type/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"Johannes Gutenberg: The Birth of Movable Type","date":"2017-08-18T22:12:03.284Z","category":"sample","description":"German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/the-origins-of-social-stationery-lettering","categorySlug":"/categories/sample/"},"frontmatter":{"title":"The Origins of Social Stationery Lettering","date":"2016-12-01T22:40:32.169Z","category":"sample","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/a-brief-history-of-typography/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"A Brief History of Typography","date":"2016-02-02T22:40:32.169Z","category":"sample","description":"Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.","tags":["gatsby"]}}}]}}};
-
-/***/ }),
-
 /***/ "./public/static/d/2195177324.json":
 /*!*****************************************!*\
   !*** ./public/static/d/2195177324.json ***!
@@ -21214,9 +21202,9 @@ __webpack_require__.r(__webpack_exports__);
 
 var Pagebar = function Pagebar(_ref) {
   var total = _ref.total,
-      current = _ref.current;
-  var listsize = 3;
-  var pagesize = 10;
+      current = _ref.current,
+      listsize = _ref.listsize,
+      pagesize = _ref.pagesize;
   var totalPages = total > 0 ? Math.ceil(total / listsize) : 1;
   var totalGroups = Math.ceil(totalPages / pagesize);
   var currentGroup = Math.ceil(current / pagesize);
@@ -21323,8 +21311,8 @@ function (_React$Component) {
       className: "post__meta"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("time", {
       className: "post__meta-time",
-      dateTime: moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('MMM / DD / YYYY')
-    }, moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('MMM / DD / YYYY')), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+      dateTime: moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('YYYY.MM.DD')
+    }, moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('YYYY.MM.DD')), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
       className: "post__meta-divider"
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
       className: "post__meta-category",
@@ -21367,6 +21355,32 @@ function (_React$Component) {
 
 /***/ }),
 
+/***/ "./src/components/PostLink.js":
+/*!************************************!*\
+  !*** ./src/components/PostLink.js ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+var PostLink = function PostLink(_ref) {
+  var node = _ref.node;
+  var link = node.fields.slug;
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: link,
+    rel: "noreferrer noopener"
+  }, node.frontmatter.title);
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (PostLink);
+
+/***/ }),
+
 /***/ "./src/components/PostTemplateDetails/index.jsx":
 /*!******************************************************!*\
   !*** ./src/components/PostTemplateDetails/index.jsx ***!
@@ -21387,6 +21401,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./style.scss */ "./src/components/PostTemplateDetails/style.scss");
 /* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_7__);
+
 
 
 
@@ -21442,9 +21459,15 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_6__["Badge"], {
         color: "primary"
       }, post.frontmatter.tags[i]));
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", null), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-      className: "post-single__footer-text"
-    }, subtitle), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Disqus__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", null), "Related", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", null, post.frontmatter.refs && lodash__WEBPACK_IMPORTED_MODULE_7___default.a.map(post.frontmatter.refs, function (ref) {
+      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+        key: ref
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+        href: ref,
+        rel: "noreferrer noopener",
+        target: "_blank"
+      }, ref));
+    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Disqus__WEBPACK_IMPORTED_MODULE_4__["default"], {
       postNode: post,
       siteMetadata: this.props.data.site.siteMetadata
     })))));
@@ -21574,9 +21597,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 
 
 
@@ -21593,7 +21614,7 @@ function (_React$Component) {
   var _proto = NotFoundRoute.prototype;
 
   _proto.render = function render() {
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Sidebar__WEBPACK_IMPORTED_MODULE_2__["default"], this.props), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content__inner"
@@ -21603,7 +21624,7 @@ function (_React$Component) {
       className: "page__title"
     }, "NOT FOUND"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "page__body"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "You just hit a route that doesn't exist... the sadness.")))))));
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, "You just hit a route that doesn't exist... the sadness."))))));
   };
 
   return NotFoundRoute;
@@ -21624,65 +21645,49 @@ var pageQuery = "802825182";
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageQuery", function() { return pageQuery; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
-/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 
 
 
 
 
-
-var CategoriesRoute =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(CategoriesRoute, _React$Component);
-
-  function CategoriesRoute() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = CategoriesRoute.prototype;
-
-  _proto.render = function render() {
-    var categories = this.props.data.allMarkdownRemark.group;
-    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      pageTitle: "All Categories"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "content"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "content__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "page"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("h1", {
-      className: "page__title"
-    }, "Categories"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "page__body"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
-      className: "categories"
-    }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("ul", {
-      className: "categories__list"
-    }, categories.map(function (category) {
-      return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("li", {
-        key: category.fieldValue,
-        className: "categories__list-item"
-      }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
-        to: "/categories/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_1___default()(category.fieldValue) + "/",
-        className: "categories__list-item-link"
-      }, category.fieldValue, " (", category.totalCount, ")"));
-    }))))))));
-  };
-
-  return CategoriesRoute;
-}(react__WEBPACK_IMPORTED_MODULE_2___default.a.Component);
+var CategoriesRoute = function CategoriesRoute(_ref) {
+  var data = _ref.data;
+  var categories = data.allMarkdownRemark.group;
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    pageTitle: "All Categories"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "content"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "content__inner"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "page"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
+    className: "page__title"
+  }, "Categories"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "page__body"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "categories"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
+    className: "categories__list"
+  }, categories.map(function (category) {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+      key: category.fieldValue,
+      className: "categories__list-item"
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+      to: "/categories/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_0___default()(category.fieldValue) + "/",
+      className: "categories__list-item-link"
+    }, category.fieldValue, " (", category.totalCount, ")"));
+  }))))))));
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (CategoriesRoute);
-var pageQuery = "2147281069";
+var pageQuery = "1749855860";
 
 /***/ }),
 
@@ -21696,8 +21701,8 @@ var pageQuery = "2147281069";
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PostListQuery", function() { return PostListQuery; });
-/* harmony import */ var _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/static/d/1070360365.json */ "./public/static/d/1070360365.json");
-var _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../public/static/d/1070360365.json */ "./public/static/d/1070360365.json", 1);
+/* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es6.object.assign */ "core-js/modules/es6.object.assign");
+/* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
@@ -21714,38 +21719,33 @@ var _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*
 
 
 
-var IndexRoute = function IndexRoute() {
-  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["StaticQuery"], {
-    query: PostListQuery,
-    render: function render(data) {
-      var items = [];
-      var posts = data.allMarkdownRemark.edges;
+var IndexRoute = function IndexRoute(_ref) {
+  var data = _ref.data;
+  var items = [];
+  var posts = data.allMarkdownRemark.edges;
 
-      lodash__WEBPACK_IMPORTED_MODULE_5___default.a.each(posts.slice(0, 3), function (post) {
-        items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
-          data: post,
-          key: post.node.fields.slug
-        }));
-      });
-
-      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
-        pageTitle: "blog by Kinuz",
-        menu: "posts"
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-        className: "content__inner"
-      }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_6__["default"], {
-        current: 1,
-        total: posts.length
-      })));
-    },
-    data: _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0__
+  lodash__WEBPACK_IMPORTED_MODULE_5___default.a.each(posts.slice(0, data.site.siteMetadata.configs.listsize), function (post) {
+    items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      data: post,
+      key: post.node.fields.slug
+    }));
   });
+
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    pageTitle: "blog by Kinuz",
+    menu: "posts"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "content"
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    className: "content__inner"
+  }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_6__["default"], Object.assign({
+    current: 1,
+    total: posts.length
+  }, data.site.siteMetadata.configs))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (IndexRoute);
-var PostListQuery = "1070360365";
+var PostListQuery = "4220291368";
 
 /***/ }),
 
@@ -21770,65 +21770,49 @@ module.exports = __webpack_require__.p + "static/photo-268c2854102385c2f67aeb93d
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageQuery", function() { return pageQuery; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
-/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash/kebabCase */ "lodash/kebabCase");
+/* harmony import */ var lodash_kebabCase__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash_kebabCase__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 
 
 
 
 
-
-var TagsRoute =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(TagsRoute, _React$Component);
-
-  function TagsRoute() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = TagsRoute.prototype;
-
-  _proto.render = function render() {
-    var tags = this.props.data.allMarkdownRemark.group;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      pageTitle: "All Tags"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "page"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-      className: "page__title"
-    }, "Tags"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "page__body"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "tags"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
-      className: "tags__list"
-    }, tags.map(function (tag) {
-      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
-        key: tag.fieldValue,
-        className: "tags__list-item"
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
-        to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_3___default()(tag.fieldValue) + "/",
-        className: "tags__list-item-link"
-      }, tag.fieldValue, " (", tag.totalCount, ")"));
-    }))))))));
-  };
-
-  return TagsRoute;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+var TagsRoute = function TagsRoute(_ref) {
+  var data = _ref.data;
+  var tags = data.allMarkdownRemark.group;
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    pageTitle: "All Tags"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content__inner"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "page"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    className: "page__title"
+  }, "Tags"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "page__body"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "tags"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "tags__list"
+  }, tags.map(function (tag) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      key: tag.fieldValue,
+      className: "tags__list-item"
+    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+      to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_2___default()(tag.fieldValue) + "/",
+      className: "tags__list-item-link"
+    }, tag.fieldValue, " (", tag.totalCount, ")"));
+  }))))))));
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (TagsRoute);
-var pageQuery = "3778218043";
+var pageQuery = "3115145228";
 
 /***/ }),
 
@@ -21845,7 +21829,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _components_PostLink__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/PostLink */ "./src/components/PostLink.js");
+
+
 
 
 
@@ -21854,14 +21844,7 @@ var CategoryTemplate = function CategoryTemplate(_ref) {
   var data = _ref.data,
       pageContext = _ref.pageContext;
   var category = pageContext.category;
-  var items = [];
   var posts = data.allMarkdownRemark.edges;
-  posts.forEach(function (post) {
-    items.push(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      data: post,
-      key: post.node.fields.slug
-    }));
-  });
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
     pageTitle: "All Posts in " + category + " category",
     menu: "category"
@@ -21873,13 +21856,17 @@ var CategoryTemplate = function CategoryTemplate(_ref) {
     className: "page"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "page__title"
-  }, category), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, category, " category (", posts.length, ")"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "page__body"
-  }, items)))));
+  }, lodash__WEBPACK_IMPORTED_MODULE_3___default.a.map(posts, function (post) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      key: post.node.id
+    }, moment__WEBPACK_IMPORTED_MODULE_2___default()(post.node.frontmatter.date).format('YYYY-MM-DD'), ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_PostLink__WEBPACK_IMPORTED_MODULE_4__["default"], post));
+  }))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (CategoryTemplate);
-var CategoryQuery = "2772853952";
+var CategoryQuery = "879424378";
 
 /***/ }),
 
@@ -21939,72 +21926,6 @@ var pageQuery = "178699593";
 
 /***/ }),
 
-/***/ "./src/templates/post-list-template.jsx":
-/*!**********************************************!*\
-  !*** ./src/templates/post-list-template.jsx ***!
-  \**********************************************/
-/*! exports provided: default, pageListQuery */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageListQuery", function() { return pageListQuery; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
-/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
-
-
-
-
-
-
-
-var PostListTemplate =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(PostListTemplate, _React$Component);
-
-  function PostListTemplate() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = PostListTemplate.prototype;
-
-  _proto.render = function render() {
-    var items = [];
-    var posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach(function (post) {
-      items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
-        data: post,
-        key: post.node.fields.slug
-      }));
-    });
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
-      pageTitle: "page : 2",
-      menu: "posts"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content__inner"
-    }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_5__["default"], {
-      current: this.props.pageContext.current,
-      total: this.props.pageContext.total
-    })));
-  };
-
-  return PostListTemplate;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
-
-/* harmony default export */ __webpack_exports__["default"] = (PostListTemplate);
-var pageListQuery = "2375393802";
-
-/***/ }),
-
 /***/ "./src/templates/post-template.jsx":
 /*!*****************************************!*\
   !*** ./src/templates/post-template.jsx ***!
@@ -22060,7 +21981,7 @@ function (_React$Component) {
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (PostTemplate);
-var PostBySlugQuery = "245925187";
+var PostBySlugQuery = "68894561";
 
 /***/ }),
 
@@ -22077,7 +21998,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _components_PostLink__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/PostLink */ "./src/components/PostLink.js");
+
+
 
 
 
@@ -22086,15 +22013,8 @@ var TagTemplate = function TagTemplate(_ref) {
   var data = _ref.data,
       pageContext = _ref.pageContext;
   var tag = pageContext.tag;
-  var items = [];
   var tagTitle = pageContext.tag;
   var posts = data.allMarkdownRemark.edges;
-  posts.forEach(function (post) {
-    items.push(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      data: post,
-      key: post.node.fields.slug
-    }));
-  });
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
     pageTitle: "All Posts tagged as \"" + tag + "\"",
     menu: "tags"
@@ -22108,11 +22028,15 @@ var TagTemplate = function TagTemplate(_ref) {
     className: "page__title"
   }, "All Posts tagged as \"", tagTitle, "\""), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "page__body"
-  }, items)))));
+  }, lodash__WEBPACK_IMPORTED_MODULE_2___default.a.map(posts, function (post) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      key: post.node.id
+    }, moment__WEBPACK_IMPORTED_MODULE_3___default()(post.node.frontmatter.date).format('YYYY-MM-DD'), ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_PostLink__WEBPACK_IMPORTED_MODULE_4__["default"], post));
+  }))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (TagTemplate);
-var tagQuery = "945157780";
+var tagQuery = "3516682482";
 
 /***/ }),
 

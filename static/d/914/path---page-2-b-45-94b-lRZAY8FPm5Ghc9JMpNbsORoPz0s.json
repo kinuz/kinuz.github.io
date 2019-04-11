@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$skip\" is never used in operation \"homeJunProjectsMyblogSrcTemplatesPostListTemplateJsx357528124\".","locations":[{"line":2,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"total":4,"limit":"2","listsize":"2","pagesize":"10","skip":2,"current":2}}
