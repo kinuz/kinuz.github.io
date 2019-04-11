@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/posts/test-post/","categorySlug":"/categories/test/"},"frontmatter":{"title":"Test Post","date":"2019-10-18 16:51:00","category":"test","description":"This starter has been forked and upgraded to Gatsby v2","tags":["Test"]}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"category":"test"}}

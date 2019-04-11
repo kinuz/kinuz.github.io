@@ -393,7 +393,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! exports provided: pages, dataPaths, default */
 /***/ (function(module) {
 
-module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-design-culture-571","path":"/categories/design-culture/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-design-inspiration-177","path":"/categories/design-inspiration/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-hello-e79","path":"/categories/hello/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-typography-0ee","path":"/categories/typography/"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-2-b45","path":"/page/2"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-a-brief-history-of-typography-7dd","path":"/posts/a-brief-history-of-typography/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-humane-typography-in-the-digital-age-733","path":"/posts/humane-typography-in-the-digital-age/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-perfecting-the-art-of-perfection-326","path":"/posts/perfecting-the-art-of-perfection/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-birth-of-movable-type-6bf","path":"/posts/the-birth-of-movable-type/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-origins-of-social-stationery-lettering-240","path":"/posts/the-origins-of-social-stationery-lettering"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-upgraded-to-gatsby-v-2-ea6","path":"/posts/upgraded-to-gatsby-v2/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-design-cda","path":"/tags/design/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-gatsby-b93","path":"/tags/gatsby/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-handwriting-26b","path":"/tags/handwriting/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-helvetica-270","path":"/tags/helvetica/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-history-of-typography-1cf","path":"/tags/history-of-typography/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-history-c4d","path":"/tags/history/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-learning-to-write-b99","path":"/tags/learning-to-write/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-lettering-6d7","path":"/tags/lettering/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-linotype-fd9","path":"/tags/linotype/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-monotype-bef","path":"/tags/monotype/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-open-source-0ee","path":"/tags/open-source/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-typefaces-0cb","path":"/tags/typefaces/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-typography-d19","path":"/tags/typography/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-web-development-f99","path":"/tags/web-development/"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"296/path---about-771-2fe-v2vvwvJJ9zvsbmVLJq89ijky7tg","categories-design-culture-571":"813/path---categories-design-culture-571-9ee-kHar3LZcAOEgYAz25hxivpiVDM","categories-design-inspiration-177":"526/path---categories-design-inspiration-177-83e-BEqJzsJ2h08rQNdCWRBBDz737M8","categories-e90":"836/path---categories-e-90-f59-gJ1X4V9bquqVjK5eyN7HunLoz2s","categories-hello-e79":"841/path---categories-hello-e-79-bae-dB3wSC3MQXY1bbWzSJwORhRpCo","categories-typography-0ee":"2/path---categories-typography-0-ee-86c-tfnBwPDrE2gGSdHnljMmcBfb2JQ","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","index":"687/path---index-6a9-2VKgO9WTrsTNw8a3NSErtnIYjRs","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","page-2-b45":"5/path---page-2-b-45-94b-0h1SiCoZ4QseaVtjxwvCqsp5Hw","posts-a-brief-history-of-typography-7dd":"293/path---posts-a-brief-history-of-typography-7-dd-3b3-mD4SfJ5UVHW41iwBoTE4AThW8j4","posts-humane-typography-in-the-digital-age-733":"401/path---posts-humane-typography-in-the-digital-age-733-28c-Qkcvn04Z8nczzU4chXlTQTRpzw","posts-perfecting-the-art-of-perfection-326":"469/path---posts-perfecting-the-art-of-perfection-326-2f5-0VqA0hy6KEJCvrAUjHD0fv5hYo","posts-the-birth-of-movable-type-6bf":"155/path---posts-the-birth-of-movable-type-6-bf-ee4-QG2BYs6HrBQHDCsMfAM0DGeQGdg","posts-the-origins-of-social-stationery-lettering-240":"794/path---posts-the-origins-of-social-stationery-lettering-240-a50-tKIFZakv88xKePWPbTabTug3wY","posts-upgraded-to-gatsby-v-2-ea6":"294/path---posts-upgraded-to-gatsby-v-2-ea-6-f18-XrVMbCwUhzk45G4y2Jqob0LqmuY","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"sq--src-pages-index-jsx":196174681,"tags-275":"420/path---tags-275-fc0-REHaw8wJmPGpB1Tkg8yAKe9QCV0","tags-design-cda":"37/path---tags-design-cda-a0d-VOvuoleVBH2tRGNbYYPNPlH0I","tags-gatsby-b93":"978/path---tags-gatsby-b-93-350-FIjbbZsJHgps2ELPI1FRXmHT1Kw","tags-handwriting-26b":"152/path---tags-handwriting-26-b-a7c-Hj2d2j4Fc6pGZKGIMFTn1vHQX6k","tags-helvetica-270":"47/path---tags-helvetica-270-530-30F0Mlsos8bUm0nsUEiW4CoONo","tags-history-c4d":"896/path---tags-history-c-4-d-70f-2yS3Mq5HbPtCmh6MvvS6zmgTpxk","tags-history-of-typography-1cf":"623/path---tags-history-of-typography-1-cf-fe4-Ea0aXpFxAPyA7xoAalqdIgTV5pY","tags-learning-to-write-b99":"342/path---tags-learning-to-write-b-99-a2b-FCEUXHXadYfor3lbPwFUgzQIGu8","tags-lettering-6d7":"213/path---tags-lettering-6-d-7-362-zabsIzrhOaB0LH5Y3ddgpIbN6A","tags-linotype-fd9":"925/path---tags-linotype-fd-9-db5-Tv9x9FeVZyzHKZnmvG1Tosja0","tags-monotype-bef":"284/path---tags-monotype-bef-e29-NX1jLwR465pSLh1pIEfNAtqs4w","tags-open-source-0ee":"771/path---tags-open-source-0-ee-962-I4I5r7JEvn5oxcR9ZwoThy7Qh5Y","tags-typefaces-0cb":"214/path---tags-typefaces-0-cb-b2e-qzkwih3C8rTOnohAZLimVXuUaiM","tags-typography-d19":"129/path---tags-typography-d-19-b34-VxAJ2zzomlMk2wm0un2wig97TWI","tags-web-development-f99":"55/path---tags-web-development-f-99-b07-11dACeJbueLAV4g91hQamhPuebA"}};
+module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-sample-f70","path":"/categories/sample/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-test-a20","path":"/categories/test/"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-2-b45","path":"/page/2"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-3-02e","path":"/page/3"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-a-brief-history-of-typography-7dd","path":"/posts/a-brief-history-of-typography/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-humane-typography-in-the-digital-age-733","path":"/posts/humane-typography-in-the-digital-age/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-test-post-4a9","path":"/posts/test-post/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-birth-of-movable-type-6bf","path":"/posts/the-birth-of-movable-type/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-the-origins-of-social-stationery-lettering-240","path":"/posts/the-origins-of-social-stationery-lettering"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"posts-upgraded-to-gatsby-v-2-ea6","path":"/posts/upgraded-to-gatsby-v2/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-gatsby-b93","path":"/tags/gatsby/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-provisioning-74f","path":"/tags/provisioning/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-test-7c5","path":"/tags/test/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-vagrant-c15","path":"/tags/vagrant/"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"648/path---about-771-2fe-9V93Zm6PBzD6AYRHu2FvS15u3I","categories-design-culture-571":"813/path---categories-design-culture-571-9ee-kHar3LZcAOEgYAz25hxivpiVDM","categories-design-inspiration-177":"526/path---categories-design-inspiration-177-83e-BEqJzsJ2h08rQNdCWRBBDz737M8","categories-e90":"605/path---categories-e-90-f59-itCvmhqJSjTLl0HpWot1WIyaY","categories-hello-e79":"841/path---categories-hello-e-79-bae-dB3wSC3MQXY1bbWzSJwORhRpCo","categories-sample-f70":"215/path---categories-sample-f-70-54b-5ZQTYeTAh82GWZte1qq068JjBrY","categories-test-a20":"499/path---categories-test-a-20-86b-3yDhP9jO7mUGlIqIoeJhtSaVzg","categories-typography-0ee":"2/path---categories-typography-0-ee-86c-tfnBwPDrE2gGSdHnljMmcBfb2JQ","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","index":"438/path---index-6a9-Nwctfa2igG9HSpYEShdCeRK5gko","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","page-2-b45":"936/path---page-2-b-45-94b-BT3lGLiKqhFTHxvOhZO5cySKUZo","page-3-02e":"243/path---page-3-02-e-288-JJx5egk4L33dE5sRPiUiVen8JE8","posts-a-brief-history-of-typography-7dd":"435/path---posts-a-brief-history-of-typography-7-dd-3b3-fH3z3mbE83EmIllsN25UY0p78k","posts-humane-typography-in-the-digital-age-733":"797/path---posts-humane-typography-in-the-digital-age-733-28c-u0gGWI1ZCkwDbWAZoQAM7Q7n8A","posts-perfecting-the-art-of-perfection-326":"469/path---posts-perfecting-the-art-of-perfection-326-2f5-0VqA0hy6KEJCvrAUjHD0fv5hYo","posts-test-post-4a9":"754/path---posts-test-post-4-a-9-90e-LH1MUb6HYQZ6ak2qvuujWs6A00","posts-the-birth-of-movable-type-6bf":"741/path---posts-the-birth-of-movable-type-6-bf-ee4-FoLSZe9v6yOKg0EHSqaFmH9ysd8","posts-the-origins-of-social-stationery-lettering-240":"902/path---posts-the-origins-of-social-stationery-lettering-240-a50-myJ0c5H1CkKwjHglP9ZHvnGshxY","posts-upgraded-to-gatsby-v-2-ea6":"601/path---posts-upgraded-to-gatsby-v-2-ea-6-f18-DKF4UfClrDDL179dk3HQlc9Qtns","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"sq--src-pages-index-jsx":1070360365,"tags-275":"522/path---tags-275-fc0-5QNf1xngb9VbGhi3mLzNiaKcm2w","tags-design-cda":"37/path---tags-design-cda-a0d-VOvuoleVBH2tRGNbYYPNPlH0I","tags-gatsby-b93":"250/path---tags-gatsby-b-93-350-Q4GWFS2bCAjYKvZEEitIok3ASgk","tags-handwriting-26b":"152/path---tags-handwriting-26-b-a7c-Hj2d2j4Fc6pGZKGIMFTn1vHQX6k","tags-helvetica-270":"47/path---tags-helvetica-270-530-30F0Mlsos8bUm0nsUEiW4CoONo","tags-history-c4d":"896/path---tags-history-c-4-d-70f-2yS3Mq5HbPtCmh6MvvS6zmgTpxk","tags-history-of-typography-1cf":"623/path---tags-history-of-typography-1-cf-fe4-Ea0aXpFxAPyA7xoAalqdIgTV5pY","tags-learning-to-write-b99":"342/path---tags-learning-to-write-b-99-a2b-FCEUXHXadYfor3lbPwFUgzQIGu8","tags-lettering-6d7":"213/path---tags-lettering-6-d-7-362-zabsIzrhOaB0LH5Y3ddgpIbN6A","tags-linotype-fd9":"925/path---tags-linotype-fd-9-db5-Tv9x9FeVZyzHKZnmvG1Tosja0","tags-monotype-bef":"284/path---tags-monotype-bef-e29-NX1jLwR465pSLh1pIEfNAtqs4w","tags-open-source-0ee":"771/path---tags-open-source-0-ee-962-I4I5r7JEvn5oxcR9ZwoThy7Qh5Y","tags-provisioning-74f":"13/path---tags-provisioning-74-f-fba-QoMSyKHfs8DJ2Aqhx19SXwwhcPs","tags-test-7c5":"280/path---tags-test-7-c-5-3e3-haknCUtUQlAfjD6v0iXucGbGg","tags-typefaces-0cb":"214/path---tags-typefaces-0-cb-b2e-qzkwih3C8rTOnohAZLimVXuUaiM","tags-typography-d19":"129/path---tags-typography-d-19-b34-VxAJ2zzomlMk2wm0un2wig97TWI","tags-vagrant-c15":"685/path---tags-vagrant-c-15-5b9-9tANKC1vPf4eBmWHdAsRxNhtls","tags-web-development-f99":"55/path---tags-web-development-f-99-b07-11dACeJbueLAV4g91hQamhPuebA"}};
 
 /***/ }),
 
@@ -2083,10 +2083,10 @@ exports.defaultOptions = defaultOptions;
 /*!******************************************!*\
   !*** ./node_modules/gatsby/package.json ***!
   \******************************************/
-/*! exports provided: _from, _id, _inBundle, _integrity, _location, _phantomChildren, _requested, _requiredBy, _resolved, _shasum, _spec, _where, author, bin, bugs, bundleDependencies, dependencies, deprecated, description, devDependencies, engines, files, gitHead, homepage, keywords, license, main, module, name, peerDependencies, repository, resolutions, scripts, types, version, yargs, default */
+/*! exports provided: _args, _from, _id, _inBundle, _integrity, _location, _phantomChildren, _requested, _requiredBy, _resolved, _spec, _where, author, bin, bugs, dependencies, description, devDependencies, engines, files, gitHead, homepage, keywords, license, main, module, name, peerDependencies, repository, resolutions, scripts, types, version, yargs, default */
 /***/ (function(module) {
 
-module.exports = {"_from":"gatsby@^2.0.22","_id":"gatsby@2.3.14","_inBundle":false,"_integrity":"sha512-5ELb1SpYYNt+5/38NwyaFrOSPtVwEjhxIKsaeglrD1jDhi8mycXezBrf+IFNE/I0r0K7BtER36W1oB+FH3fQ2g==","_location":"/gatsby","_phantomChildren":{"@babel/code-frame":"7.0.0","@babel/parser":"7.4.3","@babel/runtime":"7.4.3","@babel/traverse":"7.4.3","@babel/types":"7.4.0","ajv":"6.10.0","bluebird":"3.5.4","chalk":"2.4.2","common-tags":"1.8.0","convert-hrtime":"2.0.0","core-js":"2.6.5","decamelize":"1.2.0","doctrine":"3.0.0","envinfo":"5.12.1","eslint-scope":"3.7.1","eslint-utils":"1.3.1","eslint-visitor-keys":"1.0.0","espree":"5.0.1","esquery":"1.0.1","esrecurse":"4.2.1","estraverse":"4.2.0","esutils":"2.0.2","file-entry-cache":"5.0.1","fs-exists-cached":"1.0.0","functional-red-black-tree":"1.0.1","gatsby-telemetry":"1.0.5","get-caller-file":"1.0.3","get-stream":"3.0.0","glob":"7.1.3","globals":"11.11.0","graceful-fs":"4.1.15","hosted-git-info":"2.7.1","ignore":"4.0.6","imurmurhash":"0.1.4","inquirer":"6.2.2","is-stream":"1.1.0","js-yaml":"3.13.1","json-stable-stringify-without-jsonify":"1.0.1","jsonfile":"4.0.0","levn":"0.3.0","lodash":"4.17.11","lru-cache":"4.1.5","map-age-cleaner":"0.1.3","meant":"1.0.1","minimatch":"3.0.4","mkdirp":"0.5.1","ms":"2.1.1","natural-compare":"1.4.0","nice-try":"1.0.5","npm-run-path":"2.0.2","opentracing":"0.14.3","optionator":"0.8.2","p-finally":"1.0.0","p-is-promise":"2.0.0","parent-module":"1.0.1","path-exists":"3.0.0","path-is-inside":"1.0.2","path-key":"2.0.1","pretty-error":"2.1.1","progress":"2.0.3","pump":"3.0.0","regexpp":"2.0.1","require-directory":"2.1.1","require-main-filename":"1.0.1","resolve-cwd":"2.0.0","semver":"5.7.0","set-blocking":"2.0.0","shebang-command":"1.2.0","signal-exit":"3.0.2","source-map":"0.5.7","stack-trace":"0.0.10","string-width":"2.1.1","strip-eof":"1.0.0","strip-json-comments":"2.0.1","table":"5.2.3","text-table":"0.2.0","universalify":"0.1.2","update-notifier":"2.5.0","uuid":"3.3.2","which":"1.3.1","which-module":"2.0.0","wrap-ansi":"2.1.0","y18n":"3.2.1","yurnalist":"1.0.5"},"_requested":{"type":"range","registry":true,"raw":"gatsby@^2.0.22","name":"gatsby","escapedName":"gatsby","rawSpec":"^2.0.22","saveSpec":null,"fetchSpec":"^2.0.22"},"_requiredBy":["/"],"_resolved":"https://registry.npmjs.org/gatsby/-/gatsby-2.3.14.tgz","_shasum":"38df02cbb33407cf7cb48bbf5d53b25dd7aeb8cc","_spec":"gatsby@^2.0.22","_where":"/home/jun/projects/lumen","author":{"name":"Kyle Mathews","email":"mathews.kyle@gmail.com"},"bin":{"gatsby":"./dist/bin/gatsby.js"},"bugs":{"url":"https://github.com/gatsbyjs/gatsby/issues"},"bundleDependencies":false,"dependencies":{"@babel/code-frame":"^7.0.0","@babel/core":"^7.0.0","@babel/parser":"^7.0.0","@babel/polyfill":"^7.0.0","@babel/runtime":"^7.0.0","@babel/traverse":"^7.0.0","@gatsbyjs/relay-compiler":"2.0.0-printer-fix.2","@mikaelkristiansson/domready":"^1.0.9","@pieh/friendly-errors-webpack-plugin":"1.7.0-chalk-2","@reach/router":"^1.1.1","@stefanprobst/lokijs":"^1.5.6-b","address":"1.0.3","autoprefixer":"^9.4.3","babel-core":"7.0.0-bridge.0","babel-eslint":"^9.0.0","babel-loader":"^8.0.0","babel-plugin-add-module-exports":"^0.2.1","babel-plugin-dynamic-import-node":"^1.2.0","babel-plugin-remove-graphql-queries":"^2.6.3","babel-preset-gatsby":"^0.1.11","better-opn":"0.1.4","better-queue":"^3.8.6","bluebird":"^3.5.0","browserslist":"3.2.8","cache-manager":"^2.9.0","cache-manager-fs-hash":"^0.0.6","chalk":"^2.3.2","chokidar":"2.1.2","common-tags":"^1.4.0","compression":"^1.7.3","convert-hrtime":"^2.0.0","copyfiles":"^1.2.0","core-js":"^2.5.0","css-loader":"^1.0.0","debug":"^3.1.0","del":"^3.0.0","detect-port":"^1.2.1","devcert-san":"^0.3.3","dotenv":"^4.0.0","eslint":"^5.6.0","eslint-config-react-app":"^3.0.0","eslint-loader":"^2.1.0","eslint-plugin-flowtype":"^2.46.1","eslint-plugin-graphql":"^2.0.0","eslint-plugin-import":"^2.9.0","eslint-plugin-jsx-a11y":"^6.0.3","eslint-plugin-react":"^7.8.2","event-source-polyfill":"^1.0.5","express":"^4.16.3","express-graphql":"^0.6.12","fast-levenshtein":"~2.0.4","file-loader":"^1.1.11","flat":"^4.0.0","fs-exists-cached":"1.0.0","fs-extra":"^5.0.0","gatsby-cli":"^2.5.5","gatsby-link":"^2.0.16","gatsby-plugin-page-creator":"^2.0.12","gatsby-react-router-scroll":"^2.0.7","gatsby-telemetry":"^1.0.5","glob":"^7.1.1","graphql":"^14.1.1","graphql-compose":"^6.0.3","graphql-playground-middleware-express":"^1.7.10","graphql-relay":"^0.6.0","graphql-tools":"^3.0.4","hash-mod":"^0.0.5","invariant":"^2.2.4","is-relative":"^1.0.0","is-relative-url":"^2.0.0","is-wsl":"^1.1.0","jest-worker":"^23.2.0","joi":"12.x.x","json-loader":"^0.5.7","json-stringify-safe":"^5.0.1","kebab-hash":"^0.1.2","lodash":"^4.17.10","md5":"^2.2.1","md5-file":"^3.1.1","mime":"^2.2.0","mini-css-extract-plugin":"^0.4.0","mitt":"^1.1.2","mkdirp":"^0.5.1","moment":"^2.21.0","name-all-modules-plugin":"^1.0.1","normalize-path":"^2.1.1","null-loader":"^0.1.1","opentracing":"^0.14.3","optimize-css-assets-webpack-plugin":"^5.0.1","parseurl":"^1.3.2","physical-cpu-count":"^2.0.0","pnp-webpack-plugin":"^1.4.1","postcss-flexbugs-fixes":"^3.0.0","postcss-loader":"^2.1.3","prop-types":"^15.6.1","raw-loader":"^0.5.1","react-dev-utils":"^4.2.1","react-error-overlay":"^3.0.0","react-hot-loader":"^4.6.2","redux":"^4.0.0","request":"^2.85.0","semver":"^5.6.0","shallow-compare":"^1.2.2","sift":"^5.1.0","signal-exit":"^3.0.2","slash":"^1.0.0","socket.io":"^2.0.3","stack-trace":"^0.0.10","string-similarity":"^1.2.0","style-loader":"^0.21.0","terser-webpack-plugin":"^1.2.2","true-case-path":"^1.0.3","type-of":"^2.0.1","url-loader":"^1.0.1","util.promisify":"^1.0.0","uuid":"^3.1.0","v8-compile-cache":"^1.1.0","webpack":"~4.28.4","webpack-dev-middleware":"^3.0.1","webpack-dev-server":"^3.1.14","webpack-hot-middleware":"^2.21.0","webpack-merge":"^4.1.0","webpack-stats-plugin":"^0.1.5","xstate":"^4.3.2","yaml-loader":"^0.5.0"},"deprecated":false,"description":"Blazing fast modern site generator for React","devDependencies":{"@babel/cli":"^7.0.0","@babel/runtime":"^7.0.0","babel-preset-gatsby-package":"^0.1.4","cross-env":"^5.1.4","rimraf":"^2.6.1"},"engines":{"node":">=6.0.0"},"files":["cache-dir","dist","graphql.js","index.d.ts"],"gitHead":"169c9640938864414189bfb744694678bf973a89","homepage":"https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby#readme","keywords":["blog","generator","jekyll","markdown","react","ssg","website"],"license":"MIT","main":"cache-dir/commonjs/gatsby-browser-entry.js","module":"cache-dir/gatsby-browser-entry.js","name":"gatsby","peerDependencies":{"react":"^16.4.2","react-dom":"^16.4.2"},"repository":{"type":"git","url":"git+https://github.com/gatsbyjs/gatsby.git"},"resolutions":{"graphql":"^14.1.1"},"scripts":{"build":"npm run build:src && npm run build:internal-plugins && npm run build:rawfiles && npm run build:cjs","build:cjs":"babel cache-dir --out-dir cache-dir/commonjs --ignore **/__tests__","build:internal-plugins":"copyfiles -u 1 src/internal-plugins/**/package.json dist","build:rawfiles":"copyfiles -u 1 src/internal-plugins/**/raw_* dist","build:src":"babel src --out-dir dist --source-maps --ignore **/gatsby-cli.js,**/raw_*,**/__tests__","clean-test-bundles":"find test/ -type f -name bundle.js* -exec rm -rf {} +","prebuild":"rimraf dist && rimraf cache-dir/commonjs","prepare":"cross-env NODE_ENV=production npm run build","watch":"rimraf dist && mkdir dist && npm run build:internal-plugins && npm run build:rawfiles && npm run build:src -- --watch"},"types":"index.d.ts","version":"2.3.14","yargs":{"boolean-negation":false}};
+module.exports = {"_args":[["gatsby@2.3.14","/home/jun/projects/myblog"]],"_from":"gatsby@2.3.14","_id":"gatsby@2.3.14","_inBundle":false,"_integrity":"sha512-5ELb1SpYYNt+5/38NwyaFrOSPtVwEjhxIKsaeglrD1jDhi8mycXezBrf+IFNE/I0r0K7BtER36W1oB+FH3fQ2g==","_location":"/gatsby","_phantomChildren":{"@babel/code-frame":"7.0.0","@babel/parser":"7.4.3","@babel/runtime":"7.4.3","@babel/traverse":"7.4.3","@babel/types":"7.4.0","ajv":"6.10.0","bluebird":"3.5.4","chalk":"2.4.2","common-tags":"1.8.0","convert-hrtime":"2.0.0","core-js":"2.6.5","decamelize":"1.2.0","doctrine":"3.0.0","envinfo":"5.12.1","eslint-scope":"3.7.1","eslint-utils":"1.3.1","eslint-visitor-keys":"1.0.0","espree":"5.0.1","esquery":"1.0.1","esrecurse":"4.2.1","estraverse":"4.2.0","esutils":"2.0.2","file-entry-cache":"5.0.1","fs-exists-cached":"1.0.0","functional-red-black-tree":"1.0.1","gatsby-telemetry":"1.0.5","get-caller-file":"1.0.3","get-stream":"3.0.0","glob":"7.1.3","globals":"11.11.0","graceful-fs":"4.1.15","hosted-git-info":"2.7.1","ignore":"4.0.6","imurmurhash":"0.1.4","inquirer":"6.2.2","is-stream":"1.1.0","js-yaml":"3.13.1","json-stable-stringify-without-jsonify":"1.0.1","jsonfile":"4.0.0","levn":"0.3.0","lodash":"4.17.11","lru-cache":"4.1.5","map-age-cleaner":"0.1.3","meant":"1.0.1","minimatch":"3.0.4","mkdirp":"0.5.1","ms":"2.1.1","natural-compare":"1.4.0","nice-try":"1.0.5","npm-run-path":"2.0.2","opentracing":"0.14.3","optionator":"0.8.2","p-finally":"1.0.0","p-is-promise":"2.0.0","parent-module":"1.0.1","path-exists":"3.0.0","path-is-inside":"1.0.2","path-key":"2.0.1","pretty-error":"2.1.1","progress":"2.0.3","pump":"3.0.0","regexpp":"2.0.1","require-directory":"2.1.1","require-main-filename":"1.0.1","resolve-cwd":"2.0.0","semver":"5.7.0","set-blocking":"2.0.0","shebang-command":"1.2.0","signal-exit":"3.0.2","source-map":"0.5.7","stack-trace":"0.0.10","string-width":"2.1.1","strip-eof":"1.0.0","strip-json-comments":"2.0.1","table":"5.2.3","text-table":"0.2.0","universalify":"0.1.2","update-notifier":"2.5.0","uuid":"3.3.2","which":"1.3.1","which-module":"2.0.0","wrap-ansi":"2.1.0","y18n":"3.2.1","yurnalist":"1.0.5"},"_requested":{"type":"version","registry":true,"raw":"gatsby@2.3.14","name":"gatsby","escapedName":"gatsby","rawSpec":"2.3.14","saveSpec":null,"fetchSpec":"2.3.14"},"_requiredBy":["/"],"_resolved":"https://registry.npmjs.org/gatsby/-/gatsby-2.3.14.tgz","_spec":"2.3.14","_where":"/home/jun/projects/myblog","author":{"name":"Kyle Mathews","email":"mathews.kyle@gmail.com"},"bin":{"gatsby":"./dist/bin/gatsby.js"},"bugs":{"url":"https://github.com/gatsbyjs/gatsby/issues"},"dependencies":{"@babel/code-frame":"^7.0.0","@babel/core":"^7.0.0","@babel/parser":"^7.0.0","@babel/polyfill":"^7.0.0","@babel/runtime":"^7.0.0","@babel/traverse":"^7.0.0","@gatsbyjs/relay-compiler":"2.0.0-printer-fix.2","@mikaelkristiansson/domready":"^1.0.9","@pieh/friendly-errors-webpack-plugin":"1.7.0-chalk-2","@reach/router":"^1.1.1","@stefanprobst/lokijs":"^1.5.6-b","address":"1.0.3","autoprefixer":"^9.4.3","babel-core":"7.0.0-bridge.0","babel-eslint":"^9.0.0","babel-loader":"^8.0.0","babel-plugin-add-module-exports":"^0.2.1","babel-plugin-dynamic-import-node":"^1.2.0","babel-plugin-remove-graphql-queries":"^2.6.3","babel-preset-gatsby":"^0.1.11","better-opn":"0.1.4","better-queue":"^3.8.6","bluebird":"^3.5.0","browserslist":"3.2.8","cache-manager":"^2.9.0","cache-manager-fs-hash":"^0.0.6","chalk":"^2.3.2","chokidar":"2.1.2","common-tags":"^1.4.0","compression":"^1.7.3","convert-hrtime":"^2.0.0","copyfiles":"^1.2.0","core-js":"^2.5.0","css-loader":"^1.0.0","debug":"^3.1.0","del":"^3.0.0","detect-port":"^1.2.1","devcert-san":"^0.3.3","dotenv":"^4.0.0","eslint":"^5.6.0","eslint-config-react-app":"^3.0.0","eslint-loader":"^2.1.0","eslint-plugin-flowtype":"^2.46.1","eslint-plugin-graphql":"^2.0.0","eslint-plugin-import":"^2.9.0","eslint-plugin-jsx-a11y":"^6.0.3","eslint-plugin-react":"^7.8.2","event-source-polyfill":"^1.0.5","express":"^4.16.3","express-graphql":"^0.6.12","fast-levenshtein":"~2.0.4","file-loader":"^1.1.11","flat":"^4.0.0","fs-exists-cached":"1.0.0","fs-extra":"^5.0.0","gatsby-cli":"^2.5.5","gatsby-link":"^2.0.16","gatsby-plugin-page-creator":"^2.0.12","gatsby-react-router-scroll":"^2.0.7","gatsby-telemetry":"^1.0.5","glob":"^7.1.1","graphql":"^14.1.1","graphql-compose":"^6.0.3","graphql-playground-middleware-express":"^1.7.10","graphql-relay":"^0.6.0","graphql-tools":"^3.0.4","hash-mod":"^0.0.5","invariant":"^2.2.4","is-relative":"^1.0.0","is-relative-url":"^2.0.0","is-wsl":"^1.1.0","jest-worker":"^23.2.0","joi":"12.x.x","json-loader":"^0.5.7","json-stringify-safe":"^5.0.1","kebab-hash":"^0.1.2","lodash":"^4.17.10","md5":"^2.2.1","md5-file":"^3.1.1","mime":"^2.2.0","mini-css-extract-plugin":"^0.4.0","mitt":"^1.1.2","mkdirp":"^0.5.1","moment":"^2.21.0","name-all-modules-plugin":"^1.0.1","normalize-path":"^2.1.1","null-loader":"^0.1.1","opentracing":"^0.14.3","optimize-css-assets-webpack-plugin":"^5.0.1","parseurl":"^1.3.2","physical-cpu-count":"^2.0.0","pnp-webpack-plugin":"^1.4.1","postcss-flexbugs-fixes":"^3.0.0","postcss-loader":"^2.1.3","prop-types":"^15.6.1","raw-loader":"^0.5.1","react-dev-utils":"^4.2.1","react-error-overlay":"^3.0.0","react-hot-loader":"^4.6.2","redux":"^4.0.0","request":"^2.85.0","semver":"^5.6.0","shallow-compare":"^1.2.2","sift":"^5.1.0","signal-exit":"^3.0.2","slash":"^1.0.0","socket.io":"^2.0.3","stack-trace":"^0.0.10","string-similarity":"^1.2.0","style-loader":"^0.21.0","terser-webpack-plugin":"^1.2.2","true-case-path":"^1.0.3","type-of":"^2.0.1","url-loader":"^1.0.1","util.promisify":"^1.0.0","uuid":"^3.1.0","v8-compile-cache":"^1.1.0","webpack":"~4.28.4","webpack-dev-middleware":"^3.0.1","webpack-dev-server":"^3.1.14","webpack-hot-middleware":"^2.21.0","webpack-merge":"^4.1.0","webpack-stats-plugin":"^0.1.5","xstate":"^4.3.2","yaml-loader":"^0.5.0"},"description":"Blazing fast modern site generator for React","devDependencies":{"@babel/cli":"^7.0.0","@babel/runtime":"^7.0.0","babel-preset-gatsby-package":"^0.1.4","cross-env":"^5.1.4","rimraf":"^2.6.1"},"engines":{"node":">=6.0.0"},"files":["cache-dir","dist","graphql.js","index.d.ts"],"gitHead":"169c9640938864414189bfb744694678bf973a89","homepage":"https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby#readme","keywords":["blog","generator","jekyll","markdown","react","ssg","website"],"license":"MIT","main":"cache-dir/commonjs/gatsby-browser-entry.js","module":"cache-dir/gatsby-browser-entry.js","name":"gatsby","peerDependencies":{"react":"^16.4.2","react-dom":"^16.4.2"},"repository":{"type":"git","url":"git+https://github.com/gatsbyjs/gatsby.git"},"resolutions":{"graphql":"^14.1.1"},"scripts":{"build":"npm run build:src && npm run build:internal-plugins && npm run build:rawfiles && npm run build:cjs","build:cjs":"babel cache-dir --out-dir cache-dir/commonjs --ignore **/__tests__","build:internal-plugins":"copyfiles -u 1 src/internal-plugins/**/package.json dist","build:rawfiles":"copyfiles -u 1 src/internal-plugins/**/raw_* dist","build:src":"babel src --out-dir dist --source-maps --ignore **/gatsby-cli.js,**/raw_*,**/__tests__","clean-test-bundles":"find test/ -type f -name bundle.js* -exec rm -rf {} +","prebuild":"rimraf dist && rimraf cache-dir/commonjs","prepare":"cross-env NODE_ENV=production npm run build","watch":"rimraf dist && mkdir dist && npm run build:internal-plugins && npm run build:rawfiles && npm run build:src -- --watch"},"types":"index.d.ts","version":"2.3.14","yargs":{"boolean-negation":false}};
 
 /***/ }),
 
@@ -20758,14 +20758,14 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./public/static/d/196174681.json":
-/*!****************************************!*\
-  !*** ./public/static/d/196174681.json ***!
-  \****************************************/
+/***/ "./public/static/d/1070360365.json":
+/*!*****************************************!*\
+  !*** ./public/static/d/1070360365.json ***!
+  \*****************************************/
 /*! exports provided: data, default */
 /***/ (function(module) {
 
-module.exports = {"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/posts/upgraded-to-gatsby-v2/","categorySlug":"/categories/hello/"},"frontmatter":{"title":"Upgraded to Gatsby v2","date":"Oct 18th 2018","category":"hello","description":"This starter has been forked and upgraded to Gatsby v2","tags":["Gatsby","Web Development"]}}},{"node":{"fields":{"slug":"/posts/humane-typography-in-the-digital-age/","categorySlug":"/categories/typography/"},"frontmatter":{"title":"Humane Typography in the Digital Age","date":"Aug 19th 2017","category":"Typography","description":"An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.","tags":["Design","Typography","Web Development"]}}},{"node":{"fields":{"slug":"/posts/the-birth-of-movable-type/","categorySlug":"/categories/typography/"},"frontmatter":{"title":"Johannes Gutenberg: The Birth of Movable Type","date":"Aug 18th 2017","category":"Typography","description":"German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.","tags":["Open source","Gatsby","Typography"]}}}]}}};
+module.exports = {"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/posts/test-post/","categorySlug":"/categories/test/"},"frontmatter":{"title":"Provisioning Vagrant Machines","date":"2019-04-09 16:51:00","category":"test","description":"Provisioning Vagrant multi-machines with Ansible","tags":["vagrant","provisioning"]}}},{"node":{"fields":{"slug":"/posts/test-post/","categorySlug":"/categories/test/"},"frontmatter":{"title":"Test Post","date":"2019-04-09 16:51:00","category":"test","description":"this is test post","tags":["Test"]}}},{"node":{"fields":{"slug":"/posts/test-post/","categorySlug":"/categories/test/"},"frontmatter":{"title":"Test Post","date":"2019-04-09 16:51:00","category":"test","description":"this is test post","tags":["Test"]}}},{"node":{"fields":{"slug":"/posts/upgraded-to-gatsby-v2/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"Upgraded to Gatsby v2","date":"2018-10-18T16:51:00.000Z","category":"sample","description":"This starter has been forked and upgraded to Gatsby v2","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/humane-typography-in-the-digital-age/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"Humane Typography in the Digital Age","date":"2017-08-19T22:40:32.169Z","category":"sample","description":"An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/the-birth-of-movable-type/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"Johannes Gutenberg: The Birth of Movable Type","date":"2017-08-18T22:12:03.284Z","category":"sample","description":"German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/the-origins-of-social-stationery-lettering","categorySlug":"/categories/sample/"},"frontmatter":{"title":"The Origins of Social Stationery Lettering","date":"2016-12-01T22:40:32.169Z","category":"sample","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.","tags":["gatsby"]}}},{"node":{"fields":{"slug":"/posts/a-brief-history-of-typography/","categorySlug":"/categories/sample/"},"frontmatter":{"title":"A Brief History of Typography","date":"2016-02-02T22:40:32.169Z","category":"sample","description":"Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.","tags":["gatsby"]}}}]}}};
 
 /***/ }),
 
@@ -20810,65 +20810,6 @@ module.exports = {"data":{"site":{"siteMetadata":{"title":"Kinuz Blog","subtitle
 /***/ (function(module, exports) {
 
 // empty (null-loader)
-
-/***/ }),
-
-/***/ "./src/components/CategoryTemplateDetails.js":
-/*!***************************************************!*\
-  !*** ./src/components/CategoryTemplateDetails.js ***!
-  \***************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Post */ "./src/components/Post/index.jsx");
-
-
-
-
-var CategoryTemplateDetails =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(CategoryTemplateDetails, _React$Component);
-
-  function CategoryTemplateDetails() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = CategoryTemplateDetails.prototype;
-
-  _proto.render = function render() {
-    var items = [];
-    var category = this.props.pageContext.category;
-    var posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach(function (post) {
-      items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
-        data: post,
-        key: post.node.fields.slug
-      }));
-    });
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "page"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-      className: "page__title"
-    }, category), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "page__body"
-    }, items))));
-  };
-
-  return CategoryTemplateDetails;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
-
-/* harmony default export */ __webpack_exports__["default"] = (CategoryTemplateDetails);
 
 /***/ }),
 
@@ -20993,14 +20934,17 @@ var _public_static_d_696331148_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#
 var Layout = function Layout(_ref) {
   var children = _ref.children,
       pageTitle = _ref.pageTitle,
-      hideSidebar = _ref.hideSidebar;
+      hideSidebar = _ref.hideSidebar,
+      menu = _ref.menu;
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_5__["StaticQuery"], {
     query: LayoutQuery,
     render: function render(data) {
       var _data$site$siteMetada = data.site.siteMetadata,
           title = _data$site$siteMetada.title,
           subtitle = _data$site$siteMetada.subtitle;
-      var sidebar_tag = hideSidebar ? '' : react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Sidebar__WEBPACK_IMPORTED_MODULE_6__["default"], null);
+      var sidebar_tag = hideSidebar ? '' : react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Sidebar__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        menu: menu
+      });
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         className: "layout"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", null, title, " - ", pageTitle), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
@@ -21125,6 +21069,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
 /* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./style.scss */ "./src/components/Menu/style.scss");
 /* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_4__);
+
 
 
 
@@ -21142,16 +21089,17 @@ function (_React$Component) {
   var _proto = Menu.prototype;
 
   _proto.render = function render() {
-    var menu = this.props.data;
+    var selectedMenu = this.props.menu;
     var menuBlock = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
       className: "menu__list"
-    }, menu.map(function (item) {
+    }, this.props.data.map(function (item) {
+      var extraClass = lodash__WEBPACK_IMPORTED_MODULE_4___default.a.lowerCase(item.label) === selectedMenu ? " menu__list-item-link--active" : "";
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
         className: "menu__list-item",
         key: item.path
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         to: item.path,
-        className: "menu__list-item-link",
+        className: "menu__list-item-link" + extraClass,
         activeClassName: "menu__list-item-link menu__list-item-link--active"
       }, item.label));
     }));
@@ -21257,36 +21205,61 @@ function (_React$Component) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
+
 
 
 
 var Pagebar = function Pagebar(_ref) {
   var total = _ref.total,
       current = _ref.current;
-  console.log(total);
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["Pagination"], {
+  var listsize = 3;
+  var pagesize = 10;
+  var totalPages = total > 0 ? Math.ceil(total / listsize) : 1;
+  var totalGroups = Math.ceil(totalPages / pagesize);
+  var currentGroup = Math.ceil(current / pagesize);
+  var start = (currentGroup - 1) * pagesize + 1;
+  var last = currentGroup * pagesize > totalPages ? totalPages : currentGroup * pagesize;
+
+  var pageTags = lodash__WEBPACK_IMPORTED_MODULE_1___default.a.map(lodash__WEBPACK_IMPORTED_MODULE_1___default.a.range(start, last + 1), function (page) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationItem"], {
+      active: page === current,
+      key: page
+    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationLink"], {
+      href: "" + (page !== 1 ? "/page/" + page : '/')
+    }, page));
+  });
+
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["Pagination"], {
     size: "sm",
     "aria-label": "Page navigation example",
     className: "pagination justify-content-center"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationItem"], {
+    disabled: currentGroup === 1,
+    key: "first"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationLink"], {
     first: true,
-    href: "#"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
+    href: "/"
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationItem"], {
+    disabled: currentGroup === 1,
+    key: "prev"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationLink"], {
     previous: true,
-    href: "#"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], {
-    active: true
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
-    href: "#"
-  }, "1")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
-    href: "#"
-  }, "2")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
+    href: "/page/" + (currentGroup * listsize - 1)
+  })), pageTags, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationItem"], {
+    key: "next",
+    disabled: currentGroup === totalGroups
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationLink"], {
     next: true,
-    href: "#"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_1__["PaginationLink"], {
+    href: "/page/" + (currentGroup * listsize + 1)
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationItem"], {
+    key: "last",
+    disabled: currentGroup === totalGroups
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_2__["PaginationLink"], {
     last: true,
-    href: "#"
+    href: "/page/" + last
   })));
 };
 
@@ -21350,8 +21323,8 @@ function (_React$Component) {
       className: "post__meta"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("time", {
       className: "post__meta-time",
-      dateTime: moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('MMMM D, YYYY')
-    }, moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('MMMM YYYY')), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+      dateTime: moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('MMM / DD / YYYY')
+    }, moment__WEBPACK_IMPORTED_MODULE_3___default()(date).format('MMM / DD / YYYY')), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
       className: "post__meta-divider"
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
       className: "post__meta-category",
@@ -21368,7 +21341,8 @@ function (_React$Component) {
       className: "post__description"
     }, description), tags.map(function (tag) {
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
-        to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_6___default()(tag) + "/"
+        to: "/tags/" + lodash_kebabCase__WEBPACK_IMPORTED_MODULE_6___default()(tag) + "/",
+        key: tag
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_5__["Badge"], {
         color: "primary mr-1"
       }, tag));
@@ -21456,17 +21430,17 @@ function (_React$Component) {
       }
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single__date"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("em", null, "Published ", moment__WEBPACK_IMPORTED_MODULE_3___default()(post.frontmatter.date).format('D MMM YYYY')))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("em", null, "Published ", moment__WEBPACK_IMPORTED_MODULE_3___default()(post.frontmatter.date).format('MMMM Do YYYY, h:mm:ss a')))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "post-single__footer"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: ""
     }, "Tags: ", ' ', tags && tags.map(function (tag, i) {
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         to: tag,
-        className: "mr-1"
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_6__["Badge"], {
-        color: "primary",
+        className: "mr-1",
         key: tag
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_6__["Badge"], {
+        color: "primary"
       }, post.frontmatter.tags[i]));
     })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", null), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
       className: "post-single__footer-text"
@@ -21526,7 +21500,7 @@ var _public_static_d_2195177324_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*
 
 
 
-var Sidebar = function Sidebar() {
+var Sidebar = function Sidebar(props) {
   return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["StaticQuery"], {
     query: SidebarQuery,
     render: function render(data) {
@@ -21558,7 +21532,8 @@ var Sidebar = function Sidebar() {
       }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
         className: "sidebar__author"
       }, authorBlock), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Menu__WEBPACK_IMPORTED_MODULE_4__["default"], {
-        data: menu
+        data: menu,
+        menu: props.menu
       }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Links__WEBPACK_IMPORTED_MODULE_5__["default"], {
         data: author
       }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
@@ -21582,65 +21557,6 @@ var SidebarQuery = "2195177324";
 /***/ (function(module, exports) {
 
 // empty (null-loader)
-
-/***/ }),
-
-/***/ "./src/components/TagTemplateDetails.js":
-/*!**********************************************!*\
-  !*** ./src/components/TagTemplateDetails.js ***!
-  \**********************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Post */ "./src/components/Post/index.jsx");
-
-
-
-
-var TagTemplateDetails =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(TagTemplateDetails, _React$Component);
-
-  function TagTemplateDetails() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = TagTemplateDetails.prototype;
-
-  _proto.render = function render() {
-    var items = [];
-    var tagTitle = this.props.pageContext.tag;
-    var posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach(function (post) {
-      items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
-        data: post,
-        key: post.node.fields.slug
-      }));
-    });
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "content__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "page"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-      className: "page__title"
-    }, "All Posts tagged as \"", tagTitle, "\""), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "page__body"
-    }, items))));
-  };
-
-  return TagTemplateDetails;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
-
-/* harmony default export */ __webpack_exports__["default"] = (TagTemplateDetails);
 
 /***/ }),
 
@@ -21715,12 +21631,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_Sidebar__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Sidebar */ "./src/components/Sidebar/index.jsx");
-
-
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 
 
 
@@ -21740,7 +21651,7 @@ function (_React$Component) {
 
   _proto.render = function render() {
     var categories = this.props.data.allMarkdownRemark.group;
-    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_4__["default"], {
       pageTitle: "All Categories"
     }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
       className: "content"
@@ -21785,14 +21696,17 @@ var pageQuery = "2147281069";
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PostListQuery", function() { return PostListQuery; });
-/* harmony import */ var _public_static_d_196174681_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/static/d/196174681.json */ "./public/static/d/196174681.json");
-var _public_static_d_196174681_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../public/static/d/196174681.json */ "./public/static/d/196174681.json", 1);
+/* harmony import */ var _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/static/d/1070360365.json */ "./public/static/d/1070360365.json");
+var _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../public/static/d/1070360365.json */ "./public/static/d/1070360365.json", 1);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 /* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
-/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
+
 
 
 
@@ -21806,28 +21720,32 @@ var IndexRoute = function IndexRoute() {
     render: function render(data) {
       var items = [];
       var posts = data.allMarkdownRemark.edges;
-      posts.forEach(function (post) {
+
+      lodash__WEBPACK_IMPORTED_MODULE_5___default.a.each(posts.slice(0, 3), function (post) {
         items.push(react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_4__["default"], {
           data: post,
           key: post.node.fields.slug
         }));
       });
+
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
-        pageTitle: "blog by Kinuz"
+        pageTitle: "blog by Kinuz",
+        menu: "posts"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         className: "content"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         className: "content__inner"
-      }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_5__["default"], {
-        current: 1
+      }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        current: 1,
+        total: posts.length
       })));
     },
-    data: _public_static_d_196174681_json__WEBPACK_IMPORTED_MODULE_0__
+    data: _public_static_d_1070360365_json__WEBPACK_IMPORTED_MODULE_0__
   });
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (IndexRoute);
-var PostListQuery = "196174681";
+var PostListQuery = "1070360365";
 
 /***/ }),
 
@@ -21918,46 +21836,50 @@ var pageQuery = "3778218043";
 /*!*********************************************!*\
   !*** ./src/templates/category-template.jsx ***!
   \*********************************************/
-/*! exports provided: default, pageQuery */
+/*! exports provided: default, CategoryQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageQuery", function() { return pageQuery; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_CategoryTemplateDetails__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/CategoryTemplateDetails */ "./src/components/CategoryTemplateDetails.js");
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CategoryQuery", function() { return CategoryQuery; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
 
 
 
 
-
-var CategoryTemplate =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(CategoryTemplate, _React$Component);
-
-  function CategoryTemplate() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = CategoryTemplate.prototype;
-
-  _proto.render = function render() {
-    var category = this.props.pageContext.category;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      pageTitle: "" + category
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_CategoryTemplateDetails__WEBPACK_IMPORTED_MODULE_3__["default"], this.props));
-  };
-
-  return CategoryTemplate;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+var CategoryTemplate = function CategoryTemplate(_ref) {
+  var data = _ref.data,
+      pageContext = _ref.pageContext;
+  var category = pageContext.category;
+  var items = [];
+  var posts = data.allMarkdownRemark.edges;
+  posts.forEach(function (post) {
+    items.push(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      data: post,
+      key: post.node.fields.slug
+    }));
+  });
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    pageTitle: "All Posts in " + category + " category",
+    menu: "category"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content__inner"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "page"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    className: "page__title"
+  }, category), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "page__body"
+  }, items)))));
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (CategoryTemplate);
-var pageQuery = "281703132";
+var CategoryQuery = "2772853952";
 
 /***/ }),
 
@@ -21975,11 +21897,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "react-helmet");
-/* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_helmet__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_PageTemplateDetails__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/PageTemplateDetails */ "./src/components/PageTemplateDetails/index.jsx");
-
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _components_PageTemplateDetails__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/PageTemplateDetails */ "./src/components/PageTemplateDetails/index.jsx");
 
 
 
@@ -22005,10 +21924,11 @@ function (_React$Component) {
         pageTitle = _page$frontmatter.title,
         pageDescription = _page$frontmatter.description;
     var description = pageDescription !== null ? pageDescription : subtitle;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
       pageTitle: pageTitle,
-      descriptio: description
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_PageTemplateDetails__WEBPACK_IMPORTED_MODULE_4__["default"], this.props));
+      descriptio: description,
+      menu: this.props['*']
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_PageTemplateDetails__WEBPACK_IMPORTED_MODULE_3__["default"], this.props));
   };
 
   return PageTemplate;
@@ -22065,19 +21985,23 @@ function (_React$Component) {
       }));
     });
     return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
-      pageTitle: "page : 2"
+      pageTitle: "page : 2",
+      menu: "posts"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content"
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "content__inner"
-    }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_5__["default"], null)));
+    }, items), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      current: this.props.pageContext.current,
+      total: this.props.pageContext.total
+    })));
   };
 
   return PostListTemplate;
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (PostListTemplate);
-var pageListQuery = "169280079";
+var pageListQuery = "2375393802";
 
 /***/ }),
 
@@ -22085,12 +22009,12 @@ var pageListQuery = "169280079";
 /*!*****************************************!*\
   !*** ./src/templates/post-template.jsx ***!
   \*****************************************/
-/*! exports provided: default, pageQuery */
+/*! exports provided: default, PostBySlugQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageQuery", function() { return pageQuery; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PostBySlugQuery", function() { return PostBySlugQuery; });
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
 /* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
@@ -22136,7 +22060,7 @@ function (_React$Component) {
 }(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (PostTemplate);
-var pageQuery = "1643944000";
+var PostBySlugQuery = "245925187";
 
 /***/ }),
 
@@ -22144,46 +22068,51 @@ var pageQuery = "1643944000";
 /*!****************************************!*\
   !*** ./src/templates/tag-template.jsx ***!
   \****************************************/
-/*! exports provided: default, pageQuery */
+/*! exports provided: default, tagQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageQuery", function() { return pageQuery; });
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
-/* harmony import */ var _components_TagTemplateDetails__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/TagTemplateDetails */ "./src/components/TagTemplateDetails.js");
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tagQuery", function() { return tagQuery; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
 
 
 
 
-
-var TagTemplate =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(TagTemplate, _React$Component);
-
-  function TagTemplate() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = TagTemplate.prototype;
-
-  _proto.render = function render() {
-    var tag = this.props.pageContext.tag;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      pageTitle: "All Posts tagged as \"" + tag + "\""
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_TagTemplateDetails__WEBPACK_IMPORTED_MODULE_3__["default"], this.props));
-  };
-
-  return TagTemplate;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+var TagTemplate = function TagTemplate(_ref) {
+  var data = _ref.data,
+      pageContext = _ref.pageContext;
+  var tag = pageContext.tag;
+  var items = [];
+  var tagTitle = pageContext.tag;
+  var posts = data.allMarkdownRemark.edges;
+  posts.forEach(function (post) {
+    items.push(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      data: post,
+      key: post.node.fields.slug
+    }));
+  });
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    pageTitle: "All Posts tagged as \"" + tag + "\"",
+    menu: "tags"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content__inner"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "page"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    className: "page__title"
+  }, "All Posts tagged as \"", tagTitle, "\""), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "page__body"
+  }, items)))));
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (TagTemplate);
-var pageQuery = "3442363095";
+var tagQuery = "945157780";
 
 /***/ }),
 
