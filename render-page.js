@@ -393,7 +393,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! exports provided: pages, dataPaths, default */
 /***/ (function(module) {
 
-module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-development-ee2","path":"/categories/development/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-manjaro-380","path":"/categories/manjaro/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-vagrant-61a","path":"/categories/vagrant/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"development-2019-03-13-asciinema-79d","path":"/development/2019/03/13/asciinema"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"manjaro-2019-04-10-terminal-mp-3-player-cmus-142","path":"/manjaro/2019/04/10/terminal-mp-3-player-cmus"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-development-339","path":"/tags/development/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-docker-fd3","path":"/tags/docker/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-manjaro-cab","path":"/tags/manjaro/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-provisioning-74f","path":"/tags/provisioning/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-vagrant-c15","path":"/tags/vagrant/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22d","path":"/vagrant/2019/04/10/vagrant-환경으로-docker-클러스터-구축"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df0","path":"/vagrant/2019/04/11/docker-machine으로-docker-클러스터-구축"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"735/path---about-771-2fe-H8ZDK7kwVZNMfdTg1JlMLvxo8g","categories-development-ee2":"111/path---categories-development-ee-2-fd1-n4HWZRKBiCxI1leCAhpvWqixeA","categories-e90":"907/path---categories-e-90-f59-ENDmBoBDMlU6zrTxWoIk1yU6UY","categories-manjaro-380":"388/path---categories-manjaro-380-dae-NfgKBSBw98IyLDrJwZZSHSMPUI","categories-vagrant-61a":"912/path---categories-vagrant-61-a-818-aC0ls8zwIt9XGaZ6syNBjuJXmIM","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","development-2019-03-13-asciinema-79d":"232/path---development-2019-03-13-asciinema-79-d-6ae-8KCieGv9zOxGqQXK4y6ChMecPDA","index":"490/path---index-6a9-ePGvvWuY3mj7ArWsR8Rl6KzSKo0","manjaro-2019-04-10-terminal-mp-3-player-cmus-142":"26/path---manjaro-2019-04-10-terminal-mp-3-player-cmus-142-0d4-RWjRkEk6TH03p1fiHjC9PXtq9pI","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"tags-275":"300/path---tags-275-fc0-FPVcz3ktPoml46sA6gzsodpWqZU","tags-development-339":"788/path---tags-development-339-b64-BpdeQPuKngiHK26FgyINqKOt9g0","tags-docker-fd3":"148/path---tags-docker-fd-3-bbf-UofxePJUwgiBs4ZnXm9m2uQ8zds","tags-manjaro-cab":"598/path---tags-manjaro-cab-4a0-120QI6wu79mHkachThzBiOKE","tags-provisioning-74f":"44/path---tags-provisioning-74-f-fba-fHzJz8HkrJIMfji5OrNcUikP0Fs","tags-vagrant-c15":"169/path---tags-vagrant-c-15-5b9-m6kkF5tCsmVCcBI3mALA0uRdLY0","vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22d":"883/path---vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22-d-137-leCuUWUcNlAF1VJgYow2EvnXHYA","vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df0":"138/path---vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df-0-248-VhLwshV84MYOit8ARBBplBl48"}};
+module.exports = {"pages":[{"componentChunkName":"component---src-pages-index-jsx","jsonName":"index","path":"/"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-html-516","path":"/404.html"},{"componentChunkName":"component---src-pages-404-jsx","jsonName":"404-22d","path":"/404/"},{"componentChunkName":"component---src-templates-page-template-jsx","jsonName":"about-771","path":"/about"},{"componentChunkName":"component---src-pages-categories-jsx","jsonName":"categories-e90","path":"/categories/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-development-ee2","path":"/categories/development/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-docker-336","path":"/categories/docker/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-manjaro-380","path":"/categories/manjaro/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-ubuntu-69c","path":"/categories/ubuntu/"},{"componentChunkName":"component---src-templates-category-template-jsx","jsonName":"categories-vagrant-61a","path":"/categories/vagrant/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"development-2019-03-13-asciinema-79d","path":"/development/2019/03/13/asciinema"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"docker-2019-04-02-portainer-making-docker-management-easy-993","path":"/docker/2019/04/02/portainer-making-docker-management-easy"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"manjaro-2019-03-10-enable-command-line-auto-completion-in-bash-c8b","path":"/manjaro/2019/03/10/enable-command-line-auto-completion-in-bash"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"manjaro-2019-04-04-terminal-mp-3-player-cmus-8d1","path":"/manjaro/2019/04/04/terminal-mp-3-player-cmus"},{"componentChunkName":"component---node-modules-gatsby-plugin-offline-app-shell-js","jsonName":"offline-plugin-app-shell-fallback-a30","path":"/offline-plugin-app-shell-fallback/"},{"componentChunkName":"component---src-templates-post-list-template-jsx","jsonName":"page-2-b45","path":"/page/2"},{"componentChunkName":"component---src-pages-tags-jsx","jsonName":"tags-275","path":"/tags/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-development-339","path":"/tags/development/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-docker-fd3","path":"/tags/docker/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-manjaro-cab","path":"/tags/manjaro/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-provisioning-74f","path":"/tags/provisioning/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-ubuntu-e3a","path":"/tags/ubuntu/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-ufw-117","path":"/tags/ufw/"},{"componentChunkName":"component---src-templates-tag-template-jsx","jsonName":"tags-vagrant-c15","path":"/tags/vagrant/"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"ubuntu-2019-03-15-reset-ufw-774","path":"/ubuntu/2019/03/15/reset-ufw"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"vagrant-2019-03-20-docker-machine으로-docker-클러스터-구축-f81","path":"/vagrant/2019/03/20/docker-machine으로-docker-클러스터-구축"},{"componentChunkName":"component---src-templates-post-template-jsx","jsonName":"vagrant-2019-03-23-vagrant-환경으로-docker-클러스터-구축-298","path":"/vagrant/2019/03/23/vagrant-환경으로-docker-클러스터-구축"}],"dataPaths":{"404-22d":"627/path---404-22-d-bce-y10YsLU43Z9OL5KvgHIqhyRMXI","404-html-516":"616/path---404-html-516-62a-y10YsLU43Z9OL5KvgHIqhyRMXI","about-771":"856/path---about-771-2fe-m0mn71Q0GbZfPiG1pXjfqNzTe4","categories-development-ee2":"433/path---categories-development-ee-2-fd1-locvcX3vLtu7M6M2FvpDd3HNgI","categories-docker-336":"408/path---categories-docker-336-846-eMxIldFXx3oslv4tnlgLEdF8I","categories-e90":"134/path---categories-e-90-f59-IJ7c1jHdKeVK5fjegqj3xhD4M","categories-ma-1d1":"37/path---categories-ma-1-d-1-a7c-qJHfomTPMbBDidz4KR25mc91A","categories-manjaro-380":"120/path---categories-manjaro-380-dae-fwUjki4VBjND96lMWcWsU08NM","categories-test-a20":"309/path---categories-test-a-20-86b-DLBIbpsXzcGNJjKBGfiHLh8T2k","categories-ubuntu-69c":"721/path---categories-ubuntu-69-c-5dc-OTT1BSBxhtPouzu5I4MyBitk47A","categories-vagrant-61a":"926/path---categories-vagrant-61-a-818-dLdRHF6CoZbZMV2fuIcEKnOhWyg","dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8","development-2019-03-13-asciinema-79d":"796/path---development-2019-03-13-asciinema-79-d-6ae-HmA0HdSPzvr8GSqvDcUHJNEg6pY","docker-2019-04-02-portainer-making-docker-management-easy-993":"365/path---docker-2019-04-02-portainer-making-docker-management-easy-993-0c3-J9nZsAozfqhsWHd9LchAI9iI","docker-2019-04-11-making-docker-management-easy-519":"224/path---docker-2019-04-11-making-docker-management-easy-519-519-MqnN8FTBgTmZa55rtrAdEe3YJv8","docker-2019-04-11-portainer-making-docker-management-easy-684":"720/path---docker-2019-04-11-portainer-making-docker-management-easy-684-ab0-NPpylXLT9oOJkDwAAULOP5p8","index":"805/path---index-6a9-LsYDG43YbtFB6Q8Eg2JZhdVD6wg","ma-2019-03-10-enable-command-line-auto-completion-in-bash-d5f":"914/path---ma-2019-03-10-enable-command-line-auto-completion-in-bash-d-5-f-12b-DpxCxVjbzTW5OUXNrdae2r9URFw","manjaro-2019-03-10-enable-command-line-auto-completion-in-bash-c8b":"745/path---manjaro-2019-03-10-enable-command-line-auto-completion-in-bash-c-8-b-30f-E4jD1eSTwHdy4j4qVJpY9vGKo4","manjaro-2019-04-04-terminal-mp-3-player-cmus-8d1":"972/path---manjaro-2019-04-04-terminal-mp-3-player-cmus-8-d-1-4bf-UfNXyfMeyiHWV3I7kwPvnYjuBo","manjaro-2019-04-10-terminal-mp-3-player-cmus-142":"140/path---manjaro-2019-04-10-terminal-mp-3-player-cmus-142-0d4-jwmjaVeAaK2jDoQrczZwz7DsbNQ","offline-plugin-app-shell-fallback-a30":"604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8","page-2-b45":"335/path---page-2-b-45-94b-mi11brPzjHfyoOeqQ5jJVx5RDrQ","sq--src-components-layout-js":696331148,"sq--src-components-sidebar-index-jsx":2195177324,"tags-275":"951/path---tags-275-fc0-2dNa8QooWQtOffxKqHAAD09lGc4","tags-development-339":"338/path---tags-development-339-b64-ZGK1Qn38IjZ2r60GY9nHt2EjIY","tags-docker-fd3":"555/path---tags-docker-fd-3-bbf-e0VONhe2XwvaYTHddg2taArDKC4","tags-manjaro-cab":"812/path---tags-manjaro-cab-4a0-Mfs0hETUCbNlF1XluYUfBQsQ4k","tags-provisioning-74f":"93/path---tags-provisioning-74-f-fba-UunhO6rNtdRx6I4UrR5FNDeTE","tags-ubuntu-e3a":"872/path---tags-ubuntu-e-3-a-255-HjS6cuXXWuliFDxPGmjQplGgvYY","tags-ufw-117":"427/path---tags-ufw-117-c72-46AsYJ9VGC23QQ7M5wp2pezAs","tags-vagrant-c15":"578/path---tags-vagrant-c-15-5b9-2EJn2GpBQE0mE0lp793BRoqqVII","test-2019-03-10-enable-command-line-auto-completion-in-bash-dbf":"724/path---test-2019-03-10-enable-command-line-auto-completion-in-bash-dbf-089-CihfvIiuOHllHZqpQcL2YS852Pw","ubuntu-2019-03-15-reset-ufw-774":"733/path---ubuntu-2019-03-15-reset-ufw-774-2a7-TeLPVbWs9CUWPNLbdbulSwQc","ubuntu-2019-04-10-reset-ufw-28b":"57/path---ubuntu-2019-04-10-reset-ufw-28-b-895-I50ui5WZnBUe7EDeKe5kQrnJ24","vagrant-2019-03-20-docker-machine으로-docker-클러스터-구축-f81":"383/path---vagrant-2019-03-20-docker-machine으로-docker-클러스터-구축-f-81-21b-2aiELT0a213BbyhQh3AGOukmVdY","vagrant-2019-03-23-vagrant-환경으로-docker-클러스터-구축-298":"695/path---vagrant-2019-03-23-vagrant-환경으로-docker-클러스터-구축-298-74b-bco98PnURTucw1zpAm7HxIfr4","vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22d":"223/path---vagrant-2019-04-10-vagrant-환경으로-docker-클러스터-구축-22-d-137-upGqSnQ7tSWntkLx6VWRCyZLXI","vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df0":"468/path---vagrant-2019-04-11-docker-machine으로-docker-클러스터-구축-df-0-248-uztIiJzkZAuciwFYuLTevIL2aHY"}};
 
 /***/ }),
 
@@ -1029,6 +1029,7 @@ exports.components = {
   "component---src-templates-post-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/post-template.jsx */ "./src/templates/post-template.jsx"))),
   "component---src-templates-tag-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/tag-template.jsx */ "./src/templates/tag-template.jsx"))),
   "component---src-templates-category-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/category-template.jsx */ "./src/templates/category-template.jsx"))),
+  "component---src-templates-post-list-template-jsx": hot(preferDefault(__webpack_require__(/*! ./src/templates/post-list-template.jsx */ "./src/templates/post-list-template.jsx"))),
   "component---src-pages-404-jsx": hot(preferDefault(__webpack_require__(/*! ./src/pages/404.jsx */ "./src/pages/404.jsx"))),
   "component---src-pages-categories-jsx": hot(preferDefault(__webpack_require__(/*! ./src/pages/categories.jsx */ "./src/pages/categories.jsx"))),
   "component---src-pages-index-jsx": hot(preferDefault(__webpack_require__(/*! ./src/pages/index.jsx */ "./src/pages/index.jsx"))),
@@ -21390,19 +21391,17 @@ var PostLink = function PostLink(_ref) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/inheritsLoose */ "./node_modules/@babel/runtime/helpers/inheritsLoose.js");
-/* harmony import */ var _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
-/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _Disqus__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Disqus */ "./src/components/Disqus.js");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./style.scss */ "./src/components/PostTemplateDetails/style.scss");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
-/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! lodash */ "lodash");
-/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! moment */ "./node_modules/moment/moment.js");
+/* harmony import */ var moment__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(moment__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _Disqus__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Disqus */ "./src/components/Disqus.js");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./style.scss */ "./src/components/PostTemplateDetails/style.scss");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_6__);
 
 
 
@@ -21411,70 +21410,52 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
-var PostTemplateDetails =
-/*#__PURE__*/
-function (_React$Component) {
-  _babel_runtime_helpers_inheritsLoose__WEBPACK_IMPORTED_MODULE_0___default()(PostTemplateDetails, _React$Component);
-
-  function PostTemplateDetails() {
-    return _React$Component.apply(this, arguments) || this;
-  }
-
-  var _proto = PostTemplateDetails.prototype;
-
-  _proto.render = function render() {
-    var _this$props$data$site = this.props.data.site.siteMetadata,
-        subtitle = _this$props$data$site.subtitle,
-        author = _this$props$data$site.author;
-    var post = this.props.data.markdownRemark;
-    var tags = post.fields.tagSlugs;
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
-      className: "post-single__home-button",
-      to: "/"
-    }, "Home")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "post-single"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "post-single__inner"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-      className: "post-single__title"
-    }, post.frontmatter.title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "post-single__body"
-      /* eslint-disable-next-line react/no-danger */
-      ,
-      dangerouslySetInnerHTML: {
-        __html: post.html
-      }
-    }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "post-single__date"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("em", null, "Published ", moment__WEBPACK_IMPORTED_MODULE_3___default()(post.frontmatter.date).format('MMMM Do YYYY, h:mm:ss a')))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: "post-single__footer"
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-      className: ""
-    }, "Tags: ", ' ', tags && tags.map(function (tag, i) {
-      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
-        to: tag,
-        className: "mr-1",
-        key: tag
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_6__["Badge"], {
-        color: "primary"
-      }, post.frontmatter.tags[i]));
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", null), "Related", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", null, post.frontmatter.refs && lodash__WEBPACK_IMPORTED_MODULE_7___default.a.map(post.frontmatter.refs, function (ref) {
-      return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
-        key: ref
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-        href: ref,
-        rel: "noreferrer noopener",
-        target: "_blank"
-      }, ref));
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Disqus__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      postNode: post,
-      siteMetadata: this.props.data.site.siteMetadata
-    })))));
-  };
-
-  return PostTemplateDetails;
-}(react__WEBPACK_IMPORTED_MODULE_1___default.a.Component);
+var PostTemplateDetails = function PostTemplateDetails(props) {
+  var post = props.data.markdownRemark;
+  var tags = post.fields.tagSlugs;
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+    className: "post-single__home-button",
+    to: "/"
+  }, "Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "post-single"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "post-single__inner"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    className: "post-single__title"
+  }, post.frontmatter.title), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "post-single__body"
+    /* eslint-disable-next-line react/no-danger */
+    ,
+    dangerouslySetInnerHTML: {
+      __html: post.html
+    }
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "post-single__date"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("em", null, "Published ", moment__WEBPACK_IMPORTED_MODULE_2___default()(post.frontmatter.date).format('MMMM Do YYYY, h:mm:ss a')))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "post-single__footer"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: ""
+  }, "Tags: ", ' ', tags && tags.map(function (tag, i) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+      to: tag,
+      className: "mr-1",
+      key: tag
+    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_5__["Badge"], {
+      color: "primary"
+    }, post.frontmatter.tags[i]));
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", null), "Related", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, post.frontmatter.refs && lodash__WEBPACK_IMPORTED_MODULE_6___default.a.map(post.frontmatter.refs, function (ref) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      key: ref
+    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      href: ref,
+      rel: "noreferrer noopener",
+      target: "_blank"
+    }, ref));
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Disqus__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    postNode: post,
+    siteMetadata: props.data.site.siteMetadata
+  })))));
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (PostTemplateDetails);
 
@@ -21695,12 +21676,12 @@ var pageQuery = "1749855860";
 /*!*****************************!*\
   !*** ./src/pages/index.jsx ***!
   \*****************************/
-/*! exports provided: default, PostListQuery */
+/*! exports provided: default, PostIndexQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PostListQuery", function() { return PostListQuery; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PostIndexQuery", function() { return PostIndexQuery; });
 /* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es6.object.assign */ "core-js/modules/es6.object.assign");
 /* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
@@ -21745,7 +21726,7 @@ var IndexRoute = function IndexRoute(_ref) {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (IndexRoute);
-var PostListQuery = "4220291368";
+var PostIndexQuery = "4220291368";
 
 /***/ }),
 
@@ -21923,6 +21904,52 @@ function (_React$Component) {
 
 /* harmony default export */ __webpack_exports__["default"] = (PageTemplate);
 var pageQuery = "178699593";
+
+/***/ }),
+
+/***/ "./src/templates/post-list-template.jsx":
+/*!**********************************************!*\
+  !*** ./src/templates/post-list-template.jsx ***!
+  \**********************************************/
+/*! exports provided: default, pageListQuery */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pageListQuery", function() { return pageListQuery; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
+/* harmony import */ var _components_Post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Post */ "./src/components/Post/index.jsx");
+/* harmony import */ var _components_Pagination__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Pagination */ "./src/components/Pagination.js");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! lodash */ "lodash");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_4__);
+
+
+
+
+
+
+var PostListTemplate = function PostListTemplate(_ref) {
+  var data = _ref.data,
+      pageContext = _ref.pageContext;
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    pageTitle: "page : 2",
+    menu: "posts"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content__inner"
+  }, lodash__WEBPACK_IMPORTED_MODULE_4___default.a.map(data.allMarkdownRemark.edges, function (edge) {
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Post__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      data: edge,
+      key: edge.node.id
+    });
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Pagination__WEBPACK_IMPORTED_MODULE_3__["default"], pageContext)));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (PostListTemplate);
+var pageListQuery = "3436257856";
 
 /***/ }),
 
