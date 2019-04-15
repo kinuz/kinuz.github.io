@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"1c40eec3-3b9d-5d7f-b2e1-27302a0c6072","fields":{"slug":"/docker/2019/04/15/bind-volume-to-host-machine-on-swarm-cluster"},"frontmatter":{"title":"bind volume to host machine on swarm cluster","date":"2019-04-14T15:37:57.000Z"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"docker volume"}}
